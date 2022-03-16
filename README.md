@@ -35,12 +35,12 @@ This project is still under devlopment
 ## The Code
 
 #### - DataManagment ~ Contains files used to clean, validate and manage the dataset
-	* vistutorial.py ~ Graphs a file of maneuver data in a 3D plot for vislization
-	* rename.py ~ Early attempt at consistant file sorting, randomness, and quality control without central hosting
-	* getvaluesfrommaneuvers.py ~ Splits the files into singular "maneuvers" based on delinations of "steady flight"
+	vistutorial.py ~ Graphs a file of maneuver data in a 3D plot for vislization
+	rename.py ~ Early attempt at consistant file sorting, randomness, and quality control without central hosting
+	getvaluesfrommaneuvers.py ~ Splits the files into singular "maneuvers" based on delinations of "steady flight"
 	
 #### - Clustering ~ Classifers for unsupervised learning
-	* dtw.py ~ Dynamic Time Warping Classifer
+	dtw.py ~ Dynamic Time Warping Classifer
 	
 #### - ManeuverVis ~ Unity Project that allows 3D manipulation and visualization of flight paths in files
 
