@@ -9,10 +9,12 @@ We have apporched a subset of this challange for our class project. More Details
 
 This project is still under devlopment 
 
-###1. The Data
-    - The Data set comes from the 
+### 1. The Data
+    - The Data set comes from the AI Accelerator Distribution
 		- Motivation | https://maneuver-id.mit.edu
+		
 		- Data | https://maneuver-id.mit.edu/data
+		
 		- Info | 2.89GB/6,661 files of .tsv files containing aircraft positional/orientation over various intervals
 
     - Due to the privcay and confidental nature of the data, we are not released to share the actual files. All files are store locally on the devloper computers.
@@ -31,18 +33,18 @@ This project is still under devlopment
 
 ## The Code
 
-###- DataManagment ~ Contains files used to clean, validate and manage the dataset
+#### - DataManagment ~ Contains files used to clean, validate and manage the dataset
 	- vistutorial.py ~ Graphs a file of maneuver data in a 3D plot for vislization
 	- rename.py ~ Early attempt at consistant file sorting, randomness, and quality control without central hosting
 	- getvaluesfrommaneuvers.py ~ Splits the files into singular "maneuvers" based on delinations of "steady flight"
 	
-### - Clustering ~ Classifers for unsupervised learning
+#### - Clustering ~ Classifers for unsupervised learning
 	- dtw.py ~ Dynamic Time Warping Classifer
 	
-###- ManeuverVis ~ Unity Project that allows 3D manipulation and visualization of flight paths in files
+#### - ManeuverVis ~ Unity Project that allows 3D manipulation and visualization of flight paths in files
 
-###- Documentation ~ Collection of code documentation, project reports, and reported results
+#### - Documentation ~ Collection of code documentation, project reports, and reported results
 
-###- HMM ~ Hidden Markov Model ~ Still in progress
+#### -  HMM ~ Hidden Markov Model ~ Still in progress
 
 
