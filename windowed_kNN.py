@@ -253,7 +253,7 @@ def windowed_kNN(label_csv_file, labeled_files_directory, file_to_predict, k, wi
             if i == j:
                 continue
 
-            if nodes[i].end_index == nodes[j].start_index - 5:
+            if nodes[i].end_index == nodes[j].start_index:
                 nodes[i].add_child(nodes[j])
     end_node.index = index_counter
     nodes.append(end_node)
