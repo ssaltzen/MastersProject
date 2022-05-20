@@ -1,6 +1,6 @@
 # AI-r Force Maneuvers 
 
-This repository contains the work for the final project of ECS 271 and the basis for the Master's Capstone Project of Siena Saltzen and Lukas Moehlebrock. 
+This repository contains the work for the Master's Capstone Project of Siena Saltzen and Lucas Moehlebrock. 
 The project is based on the AIA Maneuver Identification Challenge where in an effort to enable AI coaching and automatic maneuver grading in pilot training, the Air Force seeks to automatically identify and label each maneuver flown in this dataset from a catalog of around 30 maneuvers. 
 We have approached a subset of this challenge for our class project. More Details about our work and methods are available in the documentation section in the provided reports.
 
