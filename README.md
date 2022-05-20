@@ -33,6 +33,9 @@ This project is still under development:
 
 
 ## The Code
+	Our final solution to the Maneuver Identification Challenge is the Shortest Path Classification algorithm
+	(/ShortestPathClassification/shortest_path_classification.py)
+	Video examples of each maneuver in our training dataset can be found at https://drive.google.com/drive/folders/1dLIYun9XqU5sNJYZ6UG4pjUI8mgEux6k?usp=sharing
 
 #### - DataManagment ~ Contains files used to clean, validate and manage the dataset
 	vistutorial.py ~ Graphs a file of maneuver data in a 3D plot for visualization
