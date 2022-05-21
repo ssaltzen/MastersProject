@@ -572,22 +572,6 @@ def process_udp_data(arr_head, arr_pitch, arr_roll, arr_vz, arr_time):
                         inManeuver = False
                 
             last_index_checked += 1
-        if last_index_checked == 1591:
-            if inManeuver:
-                        maneuverEnd = last_index_checked-1
-                        head =arr_head[maneuverStart:maneuverEnd]
-                        roll =arr_roll[maneuverStart:maneuverEnd]
-                        pitch =arr_pitch[maneuverStart:maneuverEnd]
-                        time_d =arr_time[maneuverStart:maneuverEnd]
-                        vz =arr_vz[maneuverStart:maneuverEnd]
-
-                        forDf = {'time (sec)': time_d,' vz (m/s)': vz, ' head (deg)': head, ' pitch (deg)': pitch, ' roll (deg)': roll}
-                        dfForLabel = pd.DataFrame(forDf)
-
-                        
-                        if arr_time[maneuverEnd] - arr_time[maneuverStart] > 6:
-                            label_data(maneuverStart, dfForLabel, arr_time)
-
 
 if __name__ == "__main__":
     with Manager() as manager:
