@@ -1,0 +1,1805 @@
+Final Labeled File:
+TRAIN_12002320001.min.tsv
+[('start = 8', 'end = 96', 'label = Turn'), ('start = 207', 'end = 279', 'label = Turn'), ('start = 279', 'end = 340', 'label = Turn'), ('start = 355', 'end = 448', 'label = Turn'), ('start = 572', 'end = 614', 'label = Turn'), ('start = 614', 'end = 694', 'label = Turn'), ('start = 731', 'end = 778', 'label = Turn'), ('start = 854', 'end = 911', 'label = Turn'), ('start = 911', 'end = 1137', 'label = Lazy8'), ('start = 1141', 'end = 1180', 'label = Turn'), ('start = 1188', 'end = 1249', 'label = Turn'), ('start = 1354', 'end = 1503', 'label = Turn'), ('start = 1516', 'end = 1691', 'label = Turn')]
+
+
+
+[(468, 638), (5247, 5445), (6223, 6293), (9113, 9236), (11822, 12005), (12795, 12974)]
+Final Labeled File:
+TRAIN_12000120002.min.tsv
+[('start = 468', 'end = 636', 'label = Turn'), ('start = 5251', 'end = 5437', 'label = Turn'), ('start = 6237', 'end = 6276', 'label = Turn'), ('start = 9127', 'end = 9220', 'label = Turn'), ('start = 11822', 'end = 12001', 'label = Turn'), ('start = 12799', 'end = 12960', 'label = Turn')]
+
+
+
+[(38, 160), (188, 251), (358, 458), (579, 688), (699, 910)]
+Final Labeled File:
+TRAIN_12001179006.min.tsv
+[('start = 38', 'end = 133', 'label = Turn'), ('start = 188', 'end = 241', 'label = Turn'), ('start = 362', 'end = 438', 'label = Aileron Roll'), ('start = 776', 'end = 853', 'label = Turn')]
+
+
+
+[(227, 467)]
+Final Labeled File:
+TRAIN_12001674006.min.tsv
+[('start = 227', 'end = 460', 'label = Turn')]
+
+
+
+[(1510, 1569), (2548, 2868), (3373, 3480), (5284, 5393)]
+Final Labeled File:
+VAL_L_13001328014.min.tsv
+[('start = 1510', 'end = 1567', 'label = Turn'), ('start = 2552', 'end = 2742', 'label = Turn'), ('start = 2756', 'end = 2849', 'label = Turn'), ('start = 3377', 'end = 3462', 'label = Turn')]
+
+
+
+[(2161, 2294), (3145, 3237)]
+Final Labeled File:
+TRAIN_13001196016.min.tsv
+[('start = 2161', 'end = 2275', 'label = Turn'), ('start = 3149', 'end = 3231', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13000314001.min.tsv
+[]
+
+
+
+[(519, 649), (2098, 2164)]
+Final Labeled File:
+VAL_S_12002735005.min.tsv
+[('start = 523', 'end = 643', 'label = Turn'), ('start = 2102', 'end = 2141', 'label = Turn')]
+
+
+
+[(72, 153), (367, 424), (430, 542), (546, 1566), (1577, 1646), (1871, 1983), (2058, 2143), (2725, 2955), (3023, 3216), (3329, 3526), (3545, 3759), (3818, 4042)]
+Final Labeled File:
+TRAIN_12002286004.min.tsv
+[('start = 367', 'end = 422', 'label = Split s'), ('start = 430', 'end = 510', 'label = Aileron Roll'), ('start = 546', 'end = 585', 'label = Turn'), ('start = 585', 'end = 687', 'label = Turn'), ('start = 687', 'end = 726', 'label = Turn'), ('start = 765', 'end = 853', 'label = Turn'), ('start = 857', 'end = 919', 'label = Aileron Roll'), ('start = 919', 'end = 975', 'label = Aileron Roll'), ('start = 975', 'end = 1034', 'label = Turn'), ('start = 1053', 'end = 1098', 'label = Turn'), ('start = 1098', 'end = 1162', 
+'label = Turn'), ('start = 1192', 'end = 1239', 'label = Turn'), ('start = 1258', 'end = 1345', 'label = Immelman'), ('start = 1345', 'end = 1467', 'label = Turn'), ('start = 1467', 'end = 1543', 'label = Turn'), ('start = 1585', 'end = 1636', 'label = Turn'), 
+('start = 1871', 'end = 1981', 'label = Barrel Roll'), ('start = 2062', 'end = 2138', 'label = Aileron Roll'), ('start = 2725', 'end = 2945', 'label = Turn'), ('start = 3031', 'end = 3157', 'label = Turn'), ('start = 3329', 'end = 3502', 'label = Turn'), ('start = 3553', 'end = 3737', 'label = Turn'), ('start = 3818', 'end = 4002', 'label = Turn')]
+
+
+
+[(309, 649), (929, 1136), (1195, 1266), (1989, 2041), (2054, 2146), (2318, 2497), (2637, 2736), (3489, 3574), (3579, 3668), (3719, 3843), (4264, 4319), (5866, 5950), (6026, 6107), (6396, 6468), (6528, 6635), (6795, 6939), (7027, 7231), (7530, 7610), (7694, 7768), (8063, 8129), (8196, 8321), (8483, 8941), (9181, 9262), (9350, 9420)]
+Final Labeled File:
+TRAIN_13001483004.min.tsv
+[('start = 327', 'end = 635', 'label = Turn'), ('start = 929', 'end = 1134', 'label = Turn'), ('start = 2058', 'end = 2141', 'label = Turn'), ('start = 2318', 'end = 2495', 'label = Turn'), ('start = 3489', 'end = 3572', 'label = Turn'), ('start = 3579', 'end = 3662', 'label = Turn'), ('start = 3719', 'end = 3832', 'label = Turn'), ('start = 4264', 'end = 4317', 'label = Turn'), ('start = 5866', 'end = 5948', 'label = Turn'), ('start = 6026', 'end = 6105', 'label = Turn'), ('start = 6400', 'end = 6459', 'label = Turn'), ('start = 6536', 'end = 6632', 'label = Turn'), ('start = 6795', 'end = 6937', 'label = Turn'), ('start = 7027', 'end = 7225', 'label = Turn'), ('start = 7534', 'end = 7593', 'label = Turn'), ('start = 7694', 'end = 7766', 'label = Turn'), ('start = 8067', 
+'end = 8126', 'label = Turn'), ('start = 8196', 'end = 8285', 'label = Turn'), ('start = 8497', 'end = 8937', 'label = Turn'), ('start = 9189', 'end = 9257', 'label = Turn'), ('start = 9362', 'end = 9417', 'label = Turn')]
+
+
+
+[(576, 635), (744, 836), (916, 1027), (1258, 1340), (1391, 1494), (1670, 1778)]
+Final Labeled File:
+TRAIN_13001454001.min.tsv
+[('start = 761', 'end = 826', 'label = Turn'), ('start = 916', 'end = 1025', 'label = Turn'), ('start = 1258', 'end = 1317', 'label = Turn'), ('start = 1391', 'end = 1489', 'label = Turn'), ('start = 1688', 'end = 1775', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_13001437001.min.tsv
+[]
+
+
+
+[(8, 184), (315, 646), (1798, 1870)]
+Final Labeled File:
+TRAIN_12000118004.min.tsv
+[('start = 8', 'end = 182', 'label = Turn'), ('start = 315', 'end = 624', 'label = Turn'), ('start = 1810', 'end = 1849', 'label = Turn')]
+
+
+
+[(1479, 1540), (2084, 2164), (2166, 2287), (3629, 3691)]
+Final Labeled File:
+TRAIN_13001538001.min.tsv
+[('start = 1487', 'end = 1538', 'label = Turn'), ('start = 2084', 'end = 2162', 'label = Turn'), ('start = 2188', 'end = 2281', 'label = Turn')]
+
+
+
+[(901, 1004)]
+Final Labeled File:
+TRAIN_12001442001.min.tsv
+[('start = 901', 'end = 984', 'label = Turn')]
+
+
+
+[(1083, 1159), (1176, 1502), (2130, 2252), (2607, 2743), (2910, 3092), (3196, 3298), (3534, 3718)]
+Final Labeled File:
+TRAIN_13001342004.min.tsv
+[('start = 1083', 'end = 1122', 'label = Turn'), ('start = 1176', 'end = 1300', 'label = Turn'), ('start = 1347', 'end = 1496', 'label = Turn'), ('start = 2134', 'end = 2212', 'label = Turn'), ('start = 2625', 'end = 2687', 'label = Turn'), ('start = 2918', 'end = 3088', 'label = Turn'), ('start = 3237', 'end = 3288', 'label = Turn'), ('start = 3548', 'end = 3662', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_12002752003.min.tsv
+[]
+
+
+
+[(214, 291), (360, 428), (498, 564), (855, 922), (946, 1078), (1081, 1153), (1274, 1809), (2015, 2092), (2164, 2235), (2708, 2793), (2821, 2890), (2909, 2963), (3631, 3754), (3763, 3909), (4166, 4237), (4269, 4397), (4430, 4562), (4565, 5095)]
+Final Labeled File:
+TRAIN_13001095006.min.tsv
+[('start = 498', 'end = 559', 'label = Turn'), ('start = 859', 'end = 905', 'label = Turn'), ('start = 954', 'end = 1073', 'label = Turn'), ('start = 1282', 'end = 1767', 'label = Turn'), ('start = 2015', 'end = 2090', 'label = Turn'), ('start = 2164', 'end = 2225', 'label = Turn'), ('start = 2720', 'end = 2788', 'label = Turn'), ('start = 2821', 'end = 2885', 'label = Turn'), ('start = 3631', 'end = 3752', 'label = Turn'), ('start = 3808', 'end = 3869', 'label = Turn'), ('start = 4174', 'end = 4220', 'label = Turn'), ('start = 4269', 'end = 4377', 'label = Turn'), ('start = 4565', 'end = 5050', 'label = Turn')]
+
+
+
+[(8, 71), (90, 215), (545, 759), (781, 841), (1013, 1177), (1242, 1376)]
+Final Labeled File:
+TRAIN_13001436003.min.tsv
+[('start = 90', 'end = 213', 'label = Turn'), ('start = 549', 'end = 756', 'label = Turn'), ('start = 789', 'end = 828', 'label = Turn'), ('start = 1013', 'end = 1162', 'label = Turn'), ('start = 1278', 'end = 1371', 'label = Turn')]
+
+
+
+[(414, 582)]
+Final Labeled File:
+TESTS_13001501010.min.tsv
+[('start = 414', 'end = 580', 'label = Turn')]
+
+
+
+[(1400, 1532), (2119, 2283), (3323, 3637), (4300, 4665)]
+Final Labeled File:
+TRAIN_13001298007.min.tsv
+[('start = 1400', 'end = 1524', 'label = Turn'), ('start = 2123', 'end = 2245', 'label = Turn'), ('start = 3323', 'end = 3618', 'label = Turn'), ('start = 4300', 'end = 4660', 'label = Turn')]
+
+
+
+[(163, 260), (412, 516), (978, 1157)]
+Final Labeled File:
+TRAIN_13001282012.min.tsv
+[('start = 177', 'end = 216', 'label = Turn'), ('start = 416', 'end = 513', 'label = Turn'), ('start = 982', 'end = 1148', 'label = Turn')]
+
+
+
+[(69, 298), (432, 536), (613, 672), (1204, 1257), (1764, 1837), (2231, 2299)]
+Final Labeled File:
+TESTS_12001780013.min.tsv
+[('start = 69', 'end = 292', 'label = Turn'), ('start = 432', 'end = 527', 'label = Turn'), ('start = 613', 'end = 664', 'label = Turn'), ('start = 1764', 'end = 1832', 'label = Turn'), ('start = 2245', 'end = 2284', 'label = Turn')]
+
+
+
+[(1139, 1190)]
+Final Labeled File:
+TRAIN_13000642012.min.tsv
+[]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13000269001.min.tsv
+[]
+
+
+
+[(8, 121), (131, 516), (523, 844), (851, 1688), (1764, 1847)]
+Final Labeled File:
+VAL_L_13000086002.min.tsv
+[('start = 131', 'end = 513', 'label = Turn'), ('start = 523', 'end = 645', 'label = Turn'), ('start = 903', 'end = 980', 'label = Turn'), ('start = 1115', 'end = 1601', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_12002172001.min.tsv
+[]
+
+
+
+[]
+Final Labeled File:
+TRAIN_12001595003.min.tsv
+[]
+
+
+
+[(930, 1013)]
+Final Labeled File:
+TESTS_13001472002.min.tsv
+[]
+
+
+
+[(143, 234), (2033, 2100), (2247, 2297), (2451, 2519), (2619, 2684), (3015, 3084), (3175, 3240), (3444, 3572), (3610, 4148), (4229, 4289), (4326, 4391), (4399, 4538), (4780, 4859), (4862, 5052), (5228, 5766), (5807, 5883), (5899, 6038), (6044, 6205)]
+Final Labeled File:
+TESTS_13000812001.min.tsv
+[('start = 2459', 'end = 2506', 'label = Turn'), ('start = 2619', 'end = 2680', 'label = Turn'), ('start = 3023', 'end = 3069', 'label = Turn'), ('start = 3183', 'end = 3230', 'label = Turn'), ('start = 3444', 'end = 3570', 'label = Turn'), ('start = 3635', 'end = 3843', 'label = Turn'), ('start = 4237', 'end = 4284', 'label = Turn'), ('start = 4399', 'end = 4460', 'label = Turn'), ('start = 4788', 'end = 4853', 'label = Turn'), ('start = 4874', 'end = 4982', 'label = Turn'), ('start = 5228', 'end = 5662', 'label = Turn'), ('start = 5899', 'end = 6036', 'label = Turn'), ('start = 6058', 'end = 6119', 'label = Turn')]
+
+
+
+[(73, 298), (357, 494), (582, 700), (772, 857)]
+Final Labeled File:
+TESTS_13001424021.min.tsv
+[('start = 81', 'end = 279', 'label = Turn'), ('start = 582', 'end = 659', 'label = Turn'), ('start = 772', 'end = 855', 'label = Turn')]
+
+
+
+[(72, 131), (551, 645), (671, 782), (900, 978), (1058, 1159), (1394, 1451), (1717, 1819), (2147, 2255), (2260, 2318), (2369, 2424)]
+Final Labeled File:
+TRAIN_12000293002.min.tsv
+[('start = 72', 'end = 123', 'label = Turn'), ('start = 555', 'end = 624', 'label = Turn'), ('start = 679', 'end = 740', 'label = Turn'), ('start = 900', 'end = 959', 'label = Turn'), ('start = 1066', 'end = 1132', 'label = Turn'), ('start = 1394', 'end = 1445', 'label = Turn'), ('start = 1717', 'end = 1817', 'label = Turn'), ('start = 2155', 'end = 2245', 'label = Turn'), ('start = 2381', 'end = 2420', 'label = Turn')]
+
+
+
+[(1211, 1267), (1419, 1471)]
+Final Labeled File:
+TRAIN_13001298011.min.tsv
+[]
+
+
+
+[(32, 144), (315, 398), (1059, 1116), (1316, 1456), (1990, 2077), (2268, 2466), (3022, 3128), (3150, 3231), (3246, 3297), (3543, 3660), (3682, 3743), (3881, 3954), (4456, 4607), (4964, 5100)]
+Final Labeled File:
+TRAIN_12000103004.min.tsv
+[('start = 32', 'end = 142', 'label = Turn'), ('start = 315', 'end = 379', 'label = Turn'), ('start = 1316', 'end = 1454', 'label = Turn'), ('start = 1994', 'end = 2060', 'label = Turn'), ('start = 2313', 'end = 2462', 'label = Turn'), ('start = 3022', 'end = 3126', 'label = Turn'), ('start = 3154', 'end = 3220', 'label = Turn'), ('start = 3250', 'end = 3289', 'label = Turn'), ('start = 3543', 'end = 3582', 'label = Turn'), ('start = 3582', 'end = 3629', 'label = Turn'), ('start = 4456', 'end = 4605', 'label = Turn'), ('start = 4968', 'end = 5094', 'label = Turn')]
+
+
+
+[(31, 90), (328, 401), (641, 960), (1272, 1360)]
+Final Labeled File:
+TESTS_13001474004.min.tsv
+[('start = 31', 'end = 70', 'label = Turn'), ('start = 328', 'end = 367', 'label = Turn'), ('start = 663', 'end = 954', 'label = Turn'), ('start = 1294', 'end = 1356', 'label = Turn')]
+
+
+
+[(8, 452), (471, 704), (709, 794), (799, 921), (926, 2557)]
+Final Labeled File:
+TRAIN_13000932002.min.tsv
+[('start = 8', 'end = 370', 'label = Turn'), ('start = 471', 'end = 630', 'label = Turn'), ('start = 988', 'end = 1053', 'label = Turn'), ('start = 1158', 'end = 1967', 'label = Turn'), ('start = 2035', 'end = 2243', 'label = Turn'), ('start = 2243', 'end = 2392', 'label = Turn'), ('start = 2410', 'end = 2552', 'label = Turn')]
+
+
+
+[(2, 2392)]
+Final Labeled File:
+TRAIN_12002315001.min.tsv
+[('start = 20', 'end = 340', 'label = Turn'), ('start = 491', 'end = 563', 'label = Turn'), ('start = 563', 'end = 645', 'label = Turn'), ('start = 703', 'end = 945', 'label = Turn'), ('start = 1021', 'end = 1061', 'label = Turn'), ('start = 1061', 'end = 1181', 'label = Turn'), ('start = 1243', 'end = 1357', 'label = Turn'), ('start = 1374', 'end = 1575', 'label = Turn'), ('start = 1616', 'end = 1868', 'label = Turn'), ('start = 1868', 'end = 2211', 'label = Turn'), ('start = 2255', 'end = 2369', 'label = Turn')]   
+
+
+
+[]
+Final Labeled File:
+TESTS_12001179001.min.tsv
+[]
+
+
+
+[(121, 1823), (1836, 2107)]
+Final Labeled File:
+TESTS_13001121001.min.tsv
+[('start = 129', 'end = 1812', 'label = Turn'), ('start = 1844', 'end = 2103', 'label = Turn')]
+
+
+
+[(22, 104), (868, 918), (1021, 1095), (1183, 1488), (1509, 1594), (1747, 1818)]
+Final Labeled File:
+TESTS_12002302001.min.tsv
+[('start = 1183', 'end = 1442', 'label = Turn')]
+
+
+
+[(281, 339), (1645, 1734)]
+Final Labeled File:
+TESTS_12000576001.min.tsv
+[('start = 1653', 'end = 1712', 'label = Turn')]
+
+
+
+[(496, 709), (740, 884)]
+Final Labeled File:
+TRAIN_12002432011.min.tsv
+[('start = 513', 'end = 689', 'label = Turn'), ('start = 740', 'end = 855', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13001465016.min.tsv
+[]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13000648001.min.tsv
+[]
+
+
+
+[(14, 213), (335, 556), (770, 947), (1130, 1327)]
+Final Labeled File:
+TESTS_13001202008.min.tsv
+[('start = 14', 'end = 193', 'label = Turn'), ('start = 351', 'end = 554', 'label = Turn'), ('start = 770', 'end = 944', 'label = Turn'), ('start = 1134', 'end = 1322', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_13001501006.min.tsv
+[]
+
+
+
+[(189, 377), (411, 476), (651, 784), (1029, 1207), (1256, 1352), (1447, 1592), (1821, 2003), (2305, 2487), (2749, 2889), (3172, 3346), (3471, 3547), (3619, 3682), (3741, 3857), (4175, 4347), (4506, 4571), (4640, 4693), (4835, 4891), (5066, 5211), (5332, 5586), 
+(5939, 5997), (6120, 6189), (6811, 6926), (8170, 8330), (8602, 8942), (9079, 9211), (9246, 9309), (9334, 9499), (9872, 9976)]
+Final Labeled File:
+TESTS_13001158020.min.tsv
+[('start = 189', 'end = 370', 'label = Turn'), ('start = 651', 'end = 747', 'label = Turn'), ('start = 1029', 'end = 1203', 'label = Turn'), ('start = 1451', 'end = 1582', 'label = Turn'), ('start = 1825', 'end = 1982', 'label = Turn'), ('start = 2335', 'end = 
+2466', 'label = Turn'), ('start = 2749', 'end = 2887', 'label = Turn'), ('start = 3176', 'end = 3330', 'label = Turn'), ('start = 3479', 'end = 3541', 'label = Turn'), ('start = 3619', 'end = 3678', 'label = Turn'), ('start = 3741', 'end = 3855', 'label = Turn'), ('start = 4175', 'end = 4344', 'label = Turn'), ('start = 4648', 'end = 4687', 'label = Turn'), ('start = 4843', 'end = 4882', 'label = Turn'), ('start = 5066', 'end = 5209', 'label = Turn'), ('start = 5390', 'end = 5584', 'label = Turn'), ('start = 5939', 'end = 5990', 'label = Turn'), ('start = 6120', 'end = 6171', 'label = Turn'), ('start = 6811', 'end = 6924', 'label = Turn'), ('start = 8174', 'end = 8285', 'label = Turn'), ('start = 8610', 'end = 8911', 'label = Turn'), ('start = 9872', 'end = 9950', 'label = Turn')]
+
+
+
+[(12, 137), (174, 350), (993, 1141), (1330, 1519), (1726, 1871), (2022, 2235)]
+Final Labeled File:
+TRAIN_13001412005.min.tsv
+[('start = 20', 'end = 123', 'label = Turn'), ('start = 174', 'end = 344', 'label = Turn'), ('start = 993', 'end = 1133', 'label = Turn'), ('start = 1334', 'end = 1517', 'label = Turn'), ('start = 1730', 'end = 1862', 'label = Turn'), ('start = 2022', 'end = 2228', 'label = Turn')]
+
+
+
+[(5971, 6068), (6942, 7099), (7203, 7325), (7358, 7419), (7436, 7491), (7646, 7742), (8087, 8345), (8628, 8690), (10411, 10468), (10658, 10830)]
+Final Labeled File:
+TRAIN_13001196018.min.tsv
+[('start = 5975', 'end = 6054', 'label = Turn'), ('start = 6942', 'end = 7089', 'label = Turn'), ('start = 7221', 'end = 7314', 'label = Turn'), ('start = 7358', 'end = 7397', 'label = Turn'), ('start = 7436', 'end = 7475', 'label = Turn'), ('start = 7660', 'end = 7740', 'label = Turn'), ('start = 8095', 'end = 8334', 'label = Turn'), ('start = 8632', 'end = 8671', 'label = Turn'), ('start = 10658', 'end = 10828', 'label = Turn')]
+
+
+
+[(8, 240), (406, 655), (790, 957), (967, 1096), (1231, 1392), (1429, 1500)]
+Final Labeled File:
+TRAIN_13000504001.min.tsv
+[('start = 16', 'end = 200', 'label = Turn'), ('start = 420', 'end = 648', 'label = Turn'), ('start = 839', 'end = 898', 'label = Turn'), ('start = 967', 'end = 1076', 'label = Turn'), ('start = 1239', 'end = 1388', 'label = Turn')]
+
+
+
+[(1083, 1231), (1629, 1753), (2341, 2478)]
+Final Labeled File:
+TRAIN_12001430008.min.tsv
+[('start = 1083', 'end = 1229', 'label = Turn'), ('start = 1629', 'end = 1751', 'label = Turn'), ('start = 2341', 'end = 2476', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_13000813001.min.tsv
+[]
+
+
+
+[(8, 101), (728, 932), (1090, 1211)]
+Final Labeled File:
+TESTS_13001190002.min.tsv
+[('start = 8', 'end = 76', 'label = Turn'), ('start = 732', 'end = 910', 'label = Turn'), ('start = 1118', 'end = 1208', 'label = Turn')]
+
+
+
+[(1457, 1640)]
+Final Labeled File:
+TRAIN_13001197009.min.tsv
+[('start = 1457', 'end = 1638', 'label = Turn')]
+
+
+
+[(22, 173), (320, 387), (730, 815)]
+Final Labeled File:
+TESTS_13000644008.min.tsv
+[('start = 36', 'end = 160', 'label = Turn'), ('start = 744', 'end = 795', 'label = Turn')]
+
+
+
+[(1094, 1204)]
+Final Labeled File:
+TRAIN_12001243011.min.tsv
+[('start = 1094', 'end = 1202', 'label = Turn')]
+
+
+
+[(307, 445), (676, 741), (753, 825), (1122, 1180), (1256, 1330), (1721, 1791), (1843, 1902)]
+Final Labeled File:
+TRAIN_13001237002.min.tsv
+[('start = 311', 'end = 427', 'label = Turn'), ('start = 684', 'end = 731', 'label = Turn'), ('start = 757', 'end = 807', 'label = Turn'), ('start = 1260', 'end = 1322', 'label = Turn'), ('start = 1725', 'end = 1772', 'label = Turn'), ('start = 1843', 'end = 1900', 'label = Turn')]
+
+
+
+[(81, 136), (141, 207), (359, 517), (580, 777), (1027, 1137), (1177, 1269), (1554, 1618), (1693, 1795), (1965, 2138), (2186, 2363), (2365, 2421), (2639, 2715), (2791, 2877), (3150, 3210), (3282, 3413), (3570, 3730), (3815, 4050), (4058, 4119), (4288, 4361), (4432, 4515), (4799, 4860), (4922, 4972), (4975, 5083), (5210, 5362)]
+Final Labeled File:
+TRAIN_13001196014.min.tsv
+[('start = 149', 'end = 188', 'label = Turn'), ('start = 363', 'end = 512', 'label = Turn'), ('start = 580', 'end = 772', 'label = Turn'), ('start = 1027', 'end = 1104', 'label = Turn'), ('start = 1177', 'end = 1267', 'label = Turn'), ('start = 1554', 'end = 1613', 'label = Turn'), ('start = 1693', 'end = 1781', 'label = Turn'), ('start = 1969', 'end = 2118', 'label = Turn'), ('start = 2190', 'end = 2359', 'label = Turn'), ('start = 2639', 'end = 2708', 'label = Turn'), ('start = 2791', 'end = 2860', 'label = Turn'), ('start = 3150', 'end = 3201', 'label = Turn'), ('start = 3282', 'end = 3406', 'label = Turn'), ('start = 3578', 'end = 3727', 'label = Turn'), ('start = 3819', 'end = 4017', 'label = Turn'), ('start = 4288', 'end = 4339', 'label = Turn'), ('start = 4432', 'end = 4501', 'label = Turn'), ('start = 4799', 'end = 4850', 'label = Turn'), ('start = 5210', 'end = 5357', 'label = Turn')]
+
+[(8, 152), (177, 244), (390, 460), (497, 636), (1553, 1748), (2549, 2743), (3245, 3351), (4300, 4402), (4405, 4522), (4885, 4960), (4962, 5103), (5186, 5494), (5537, 6069), (6259, 6311), (6579, 6692), (7269, 7322), (7339, 7641), (7691, 7920), (7926, 8117), (8163, 8377), (8502, 8663), (8669, 8744), (8749, 8986), (9166, 9296), (9345, 9399), (9415, 9693), (9840, 10233), (10289, 10498), (10521, 10777)]
+Final Labeled File:
+TESTS_12000084008.min.tsv
+[('start = 8', 'end = 116', 'label = Turn'), ('start = 195', 'end = 234', 'label = Turn'), ('start = 390', 'end = 458', 'label = Turn'), ('start = 497', 'end = 634', 'label = Turn'), ('start = 1553', 'end = 1746', 'label = Turn'), ('start = 2553', 'end = 2710', 'label = Turn'), ('start = 3245', 'end = 3348', 'label = Turn'), ('start = 4318', 'end = 4380', 'label = Turn'), ('start = 4405', 'end = 4516', 'label = Turn'), ('start = 4885', 'end = 4958', 'label = Turn'), ('start = 4962', 'end = 5086', 'label = Turn'), ('start = 5202', 'end = 5268', 'label = Turn'), ('start = 5276', 'end = 5389', 'label = Turn'), ('start = 5389', 'end = 5487', 'label = Turn'), ('start = 5537', 'end = 5663', 'label = Turn'), ('start = 5663', 'end = 6049', 'label = Turn'), ('start = 7397', 'end = 
+7611', 'label = Turn'), ('start = 7695', 'end = 7844', 'label = Turn'), ('start = 7938', 'end = 8104', 'label = Turn'), ('start = 8163', 'end = 8337', 'label = Turn'), ('start = 8502', 'end = 8609', 'label = Turn'), ('start = 8794', 'end = 8962', 'label = Turn'), ('start = 9180', 'end = 9290', 'label = Turn'), ('start = 9474', 'end = 9655', 'label = Turn'), ('start = 9857', 'end = 10027', 'label = Turn'), ('start = 10044', 'end = 10228', 'label = Turn'), ('start = 10307', 'end = 10473', 'label = Turn'), ('start = 10525', 'end = 10693', 'label = Turn')]
+
+
+
+[(219, 476), (867, 978), (1483, 1575), (1722, 1999), (2067, 2449), (2459, 2704), (2808, 3151), (3496, 6510), (6579, 6634), (6640, 6833), (7289, 7358)]
+Final Labeled File:
+TESTS_13001360002.min.tsv
+[('start = 235', 'end = 343', 'label = Turn'), ('start = 351', 'end = 453', 'label = Turn'), ('start = 867', 'end = 969', 'label = Turn'), ('start = 1483', 'end = 1573', 'label = Turn'), ('start = 1736', 'end = 1989', 'label = Turn'), ('start = 2113', 'end = 2430', 'label = Turn'), ('start = 2459', 'end = 2683', 'label = Turn'), ('start = 2808', 'end = 3107', 'label = Turn'), ('start = 3512', 'end = 6376', 'label = Turn'), ('start = 6384', 'end = 6487', 'label = Turn'), ('start = 6640', 'end = 6831', 'label = Turn'), ('start = 7289', 'end = 7356', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:      
+TESTS_13001136005.min.tsv
+[]
+
+
+
+[(38, 175), (178, 230), (373, 612), (952, 1086)]
+Final Labeled File:
+TRAIN_12001682002.min.tsv
+[('start = 38', 'end = 173', 'label = Turn'), ('start = 395', 'end = 603', 'label = Turn'), ('start = 952', 'end = 1084', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_13001092001.min.tsv
+[]
+
+
+
+[(872, 1141), (2374, 2440), (3951, 4037), (4447, 4648), (4716, 4958), (4972, 5033), (5209, 5283)]
+Final Labeled File:
+TRAIN_12001255013.min.tsv
+[('start = 872', 'end = 1135', 'label = Turn'), ('start = 3951', 'end = 4035', 'label = Turn'), ('start = 4455', 'end = 4625', 'label = Turn'), ('start = 4720', 'end = 4925', 'label = Turn')]
+
+
+
+[(933, 1716), (1907, 2502)]
+Final Labeled File:
+TRAIN_12001169019.min.tsv
+[('start = 945', 'end = 1681', 'label = Turn'), ('start = 1929', 'end = 2160', 'label = Turn'), ('start = 2160', 'end = 2253', 'label = Split s'), ('start = 2253', 'end = 2497', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_12000714008.min.tsv
+[]
+
+
+
+[(2086, 2145), (2277, 2346), (2463, 2551)]
+Final Labeled File:
+TRAIN_13001261013.min.tsv
+[('start = 2277', 'end = 2336', 'label = Turn'), ('start = 2463', 'end = 2549', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_13001446004.min.tsv
+[]
+
+
+
+[(375, 516), (665, 806), (894, 954), (1226, 1350), (1455, 1518), (1730, 1990), (2087, 2154), (2170, 2531)]
+Final Labeled File:
+TRAIN_12002432009.min.tsv
+[('start = 375', 'end = 514', 'label = Turn'), ('start = 665', 'end = 787', 'label = Turn'), ('start = 911', 'end = 950', 'label = Turn'), ('start = 1226', 'end = 1348', 'label = Turn'), ('start = 1469', 'end = 1516', 'label = Turn'), ('start = 1738', 'end = 1974', 'label = Turn'), ('start = 2087', 'end = 2148', 'label = Turn'), ('start = 2182', 'end = 2527', 'label = Turn')]
+
+
+
+[(63, 148), (211, 287), (888, 944), (2205, 2387)]
+Final Labeled File:
+TESTS_13001122012.min.tsv
+[('start = 67', 'end = 136', 'label = Turn'), ('start = 215', 'end = 283', 'label = Turn'), ('start = 2205', 'end = 2385', 'label = Turn')]
+
+
+
+[(194, 256), (432, 485), (1776, 1882), (2255, 2375)]
+Final Labeled File:
+TRAIN_13001538004.min.tsv
+[('start = 1780', 'end = 1873', 'label = Turn'), ('start = 2255', 'end = 2338', 'label = Turn')]
+
+
+
+[(243, 314), (535, 602), (757, 833), (922, 1006), (1093, 1270), (1279, 1350), (1504, 1629)]
+Final Labeled File:
+TRAIN_13000430002.min.tsv
+[('start = 535', 'end = 597', 'label = Turn'), ('start = 761', 'end = 823', 'label = Turn'), ('start = 940', 'end = 999', 'label = Turn'), ('start = 1101', 'end = 1252', 'label = Turn'), ('start = 1279', 'end = 1340', 'label = Turn'), ('start = 1508', 'end = 1626', 'label = Turn')]
+
+
+
+[(189, 261), (697, 803), (1041, 1160)]
+Final Labeled File:
+TESTS_13000580001.min.tsv
+[('start = 189', 'end = 251', 'label = Turn')]
+
+
+
+[(450, 537), (644, 736), (1112, 1192), (1257, 1391), (1948, 2004), (2145, 2224), (2337, 2406), (2689, 2762), (2824, 2933), (3095, 3272), (3355, 3531), (3848, 3910), (4015, 4102)]
+Final Labeled File:
+TRAIN_13001158018.min.tsv
+[('start = 458', 'end = 497', 'label = Turn'), ('start = 644', 'end = 695', 'label = Turn'), ('start = 1116', 'end = 1175', 'label = Turn'), ('start = 1261', 'end = 1383', 'label = Turn'), ('start = 2149', 'end = 2188', 'label = Turn'), ('start = 2337', 'end = 
+2396', 'label = Turn'), ('start = 2689', 'end = 2740', 'label = Turn'), ('start = 2832', 'end = 2914', 'label = Turn'), ('start = 3095', 'end = 3244', 'label = Turn'), ('start = 3355', 'end = 3521', 'label = Turn'), ('start = 3848', 'end = 3899', 'label = Turn'), ('start = 4023', 'end = 4082', 'label = Turn')]
+
+
+
+[(754, 1178)]
+Final Labeled File:
+TESTS_12002541012.min.tsv
+[('start = 754', 'end = 1091', 'label = Turn')]
+
+
+
+[(26, 755), (766, 857), (876, 1582)]
+Final Labeled File:
+TRAIN_13000120002.min.tsv
+[('start = 101', 'end = 735', 'label = Turn'), ('start = 890', 'end = 1530', 'label = Turn')]
+
+
+
+[(96, 276), (392, 451), (1030, 1236)]
+Final Labeled File:
+TRAIN_12000184013.min.tsv
+[('start = 96', 'end = 274', 'label = Turn'), ('start = 1030', 'end = 1216', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_13001362013.min.tsv
+[]
+
+
+
+[(52, 235), (247, 517), (522, 627), (631, 929), (1018, 1106), (1138, 1207), (1240, 1412), (1459, 1590), (1694, 1833)]
+Final Labeled File:
+TRAIN_12002353008.min.tsv
+[('start = 148', 'end = 216', 'label = Turn'), ('start = 247', 'end = 295', 'label = Turn'), ('start = 295', 'end = 429', 'label = Turn'), ('start = 429', 'end = 493', 'label = Turn'), ('start = 544', 'end = 606', 'label = Turn'), ('start = 631', 'end = 768', 'label = Quarter cloverleaf'), ('start = 772', 'end = 925', 'label = Turn'), ('start = 1018', 'end = 1104', 'label = Turn'), ('start = 1138', 'end = 1177', 'label = Turn'), ('start = 1240', 'end = 1279', 'label = Turn'), ('start = 1296', 'end = 1360', 'label = Turn'), ('start = 1467', 'end = 1506', 'label = Turn'), ('start = 1525', 'end = 1585', 'label = Turn'), ('start = 1694', 'end = 1750', 'label = Aileron Roll'), ('start = 1750', 'end = 1828', 'label = Turn')]
+
+
+
+[(5927, 6001), (6169, 6236), (7335, 7387), (7739, 7862), (8042, 8235), (8294, 8403), (8407, 8464), (8479, 8638), (8648, 8700), (8823, 9015)]
+Final Labeled File:
+TRAIN_13001465014.min.tsv
+[('start = 7747', 'end = 7830', 'label = Turn'), ('start = 8046', 'end = 8221', 'label = Turn'), ('start = 8487', 'end = 8633', 'label = Turn'), ('start = 8823', 'end = 8983', 'label = Turn')]
+
+
+
+[(287, 375), (424, 540), (703, 860), (969, 1191), (1492, 1559), (1647, 1741), (2120, 2256), (2363, 2443), (2987, 3112), (3326, 3546), (3749, 3816)]
+Final Labeled File:
+TESTS_13001244002.min.tsv
+[('start = 291', 'end = 350', 'label = Turn'), ('start = 424', 'end = 534', 'label = Turn'), ('start = 707', 'end = 856', 'label = Turn'), ('start = 977', 'end = 1181', 'label = Turn'), ('start = 1496', 'end = 1555', 'label = Turn'), ('start = 1647', 'end = 1739', 'label = Turn'), ('start = 2128', 'end = 2250', 'label = Turn'), ('start = 2363', 'end = 2422', 'label = Turn'), ('start = 2987', 'end = 3110', 'label = Turn'), ('start = 3326', 'end = 3529', 'label = Turn'), ('start = 3753', 'end = 3812', 'label = Turn')] 
+
+
+
+[(26, 498), (507, 775), (864, 1008)]
+Final Labeled File:
+TRAIN_13001100004.min.tsv
+[('start = 26', 'end = 157', 'label = Turn'), ('start = 187', 'end = 317', 'label = Immelman'), ('start = 351', 'end = 488', 'label = Quarter cloverleaf'), ('start = 533', 'end = 616', 'label = Quarter cloverleaf'), ('start = 666', 'end = 749', 'label = Quarter cloverleaf'), ('start = 864', 'end = 1002', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_12000135002.min.tsv
+[]
+
+
+
+[(139, 214), (241, 344), (567, 636), (644, 810), (956, 1148), (1224, 1443), (1491, 1541), (1710, 1828), (1851, 1938), (2017, 2080), (2193, 2363), (2370, 2458), (2638, 2739), (2773, 2849), (3086, 3225), (3227, 3352), (3389, 3791), (3808, 4036), (4274, 4331)]
+Final Labeled File:
+TESTS_13000854001.min.tsv
+[('start = 143', 'end = 209', 'label = Turn'), ('start = 245', 'end = 328', 'label = Turn'), ('start = 575', 'end = 622', 'label = Turn'), ('start = 648', 'end = 781', 'label = Turn'), ('start = 956', 'end = 1146', 'label = Turn'), ('start = 1224', 'end = 1441', 'label = Turn'), ('start = 1710', 'end = 1826', 'label = Turn'), ('start = 1851', 'end = 1931', 'label = Turn'), ('start = 2193', 'end = 2345', 'label = Turn'), ('start = 2370', 'end = 2431', 'label = Turn'), ('start = 2652', 'end = 2732', 'label = Turn'), ('start = 2777', 'end = 2838', 'label = Turn'), ('start = 3086', 'end = 3220', 'label = Turn'), ('start = 3239', 'end = 3308', 'label = Turn'), ('start = 3430', 'end = 3759', 'label = Turn'), ('start = 3808', 'end = 4016', 'label = Turn')]
+
+
+
+[(2488, 2642), (2998, 3051), (3309, 3440), (3452, 3517), (4869, 5223)]
+Final Labeled File:
+TRAIN_13001429002.min.tsv
+[('start = 2488', 'end = 2640', 'label = Turn'), ('start = 3002', 'end = 3041', 'label = Turn'), ('start = 3317', 'end = 3430', 'label = Turn'), ('start = 4887', 'end = 5185', 'label = Turn')]
+
+
+
+[(544, 672), (828, 966)]
+Final Labeled File:
+TRAIN_13001056009.min.tsv
+[('start = 558', 'end = 654', 'label = Quarter cloverleaf'), ('start = 836', 'end = 952', 'label = Loop')]
+
+
+
+[(183, 852)]
+Final Labeled File:
+TRAIN_13001296008.min.tsv
+[('start = 191', 'end = 831', 'label = Turn')]
+
+
+
+[(120, 331), (553, 636), (784, 846), (860, 964), (1204, 1333), (1448, 1571)]
+Final Labeled File:
+TRAIN_12000025002.min.tsv
+[('start = 150', 'end = 321', 'label = Turn'), ('start = 587', 'end = 626', 'label = Turn'), ('start = 891', 'end = 930', 'label = Turn'), ('start = 1235', 'end = 1331', 'label = Split s'), ('start = 1448', 'end = 1569', 'label = Barrel Roll')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13001046008.min.tsv
+[]
+
+
+
+[(131, 208), (509, 776), (980, 1065), (2554, 2752), (2938, 3120), (3365, 3510), (3592, 3649), (3901, 3952), (4038, 4385)]
+Final Labeled File:
+TRAIN_12000508003.min.tsv
+[('start = 131', 'end = 199', 'label = Turn'), ('start = 509', 'end = 717', 'label = Turn'), ('start = 980', 'end = 1044', 'label = Turn'), ('start = 2554', 'end = 2750', 'label = Turn'), ('start = 2938', 'end = 3118', 'label = Turn'), ('start = 3369', 'end = 3472', 'label = Turn'), ('start = 3606', 'end = 3645', 'label = Turn'), ('start = 4038', 'end = 4149', 'label = Turn'), ('start = 4163', 'end = 4380', 'label = Turn')]
+
+
+
+[(1536, 1596)]
+
+
+
+[]
+Final Labeled File:
+TESTS_12002465004.min.tsv
+[]
+
+
+
+[(516, 582), (630, 803), (808, 890), (1389, 1439), (1499, 1550), (1694, 1872), (2034, 2145), (2364, 2489)]
+Final Labeled File:
+
+
+
+[(328, 467), (733, 831), (858, 1013), (1053, 1445), (1450, 1571)]
+Final Labeled File:
+TESTS_12000120007.min.tsv
+[('start = 328', 'end = 381', 'label = Turn'), ('start = 741', 'end = 828', 'label = Barrel Roll'), ('start = 858', 'end = 1011', 'label = Turn'), ('start = 1073', 'end = 1106', 'label = Turn'), ('start = 1106', 'end = 1165', 'label = Turn'), ('start = 1165', 'end = 1224', 'label = Turn'), ('start = 1284', 'end = 1347', 'label = Turn'), ('start = 1347', 'end = 1394', 'label = Turn'), ('start = 1450', 'end = 1569', 'label = Turn')]
+
+
+
+[(8, 173), (933, 1234), (1301, 1405), (1611, 1876), (2184, 2423)]
+Final Labeled File:
+TRAIN_13001250009.min.tsv
+[('start = 8', 'end = 171', 'label = Turn'), ('start = 933', 'end = 1225', 'label = Turn'), ('start = 1309', 'end = 1402', 'label = Turn'), ('start = 1611', 'end = 1874', 'label = Turn'), ('start = 2192', 'end = 2394', 'label = Turn')]
+
+
+
+[(226, 370), (691, 1151)]
+Final Labeled File:
+TESTS_12000823010.min.tsv
+[('start = 226', 'end = 368', 'label = Turn'), ('start = 699', 'end = 798', 'label = Turn'), ('start = 798', 'end = 1143', 'label = Turn')]
+
+
+
+[(377, 636), (758, 873), (912, 965)]
+Final Labeled File:
+TRAIN_12001456005.min.tsv
+[('start = 385', 'end = 632', 'label = Turn'), ('start = 758', 'end = 871', 'label = Turn'), ('start = 912', 'end = 963', 'label = Turn')]
+
+
+
+[(20, 78), (112, 474), (591, 1227), (1303, 1375)]
+Final Labeled File:
+TRAIN_12000020004.min.tsv
+[('start = 112', 'end = 151', 'label = Turn'), ('start = 151', 'end = 307', 'label = Barrel Roll'), ('start = 311', 'end = 370', 'label = Aileron Roll'), ('start = 370', 'end = 458', 'label = Turn'), ('start = 605', 'end = 886', 'label = Lazy8'), ('start = 886', 'end = 1167', 'label = Lazy8')]
+
+
+
+[(145, 201), (1260, 1316)]
+Final Labeled File:
+TRAIN_13000696001.min.tsv
+[]
+
+
+
+[(1274, 1447), (1468, 1579)]
+Final Labeled File:
+TRAIN_13001190001.min.tsv
+[('start = 1274', 'end = 1423', 'label = Turn'), ('start = 1468', 'end = 1577', 'label = Turn')]
+
+
+
+[(361, 413), (3009, 3154), (3396, 3550)]
+Final Labeled File:
+TESTS_12000129009.min.tsv
+[('start = 3023', 'end = 3147', 'label = Turn'), ('start = 3418', 'end = 3510', 'label = Turn')]
+
+
+
+[(1510, 1569), (2548, 2868), (3373, 3480), (5284, 5393)]
+Final Labeled File:
+VAL_L_13001328014.min.tsv
+[('start = 1514', 'end = 1553', 'label = Turn'), ('start = 2548', 'end = 2733', 'label = Turn'), ('start = 2755', 'end = 2848', 'label = Turn'), ('start = 3377', 'end = 3462', 'label = Turn')]
+
+
+
+[(1329, 1388)]
+Final Labeled File:
+TESTS_13001499019.min.tsv
+[]
+
+
+
+[(484, 543), (786, 1019), (1358, 1419)]
+Final Labeled File:
+TRAIN_12001450001.min.tsv
+[('start = 488', 'end = 538', 'label = Turn'), ('start = 804', 'end = 1012', 'label = Turn'), ('start = 1358', 'end = 1397', 'label = Turn')]
+
+
+
+[(315, 397), (437, 591), (721, 880), (1030, 1165), (1393, 1509)]
+Final Labeled File:
+TESTS_13001301017.min.tsv
+[('start = 315', 'end = 395', 'label = Turn'), ('start = 441', 'end = 567', 'label = Turn'), ('start = 725', 'end = 874', 'label = Turn'), ('start = 1030', 'end = 1163', 'label = Turn'), ('start = 1405', 'end = 1504', 'label = Turn')]
+
+
+
+[(96, 1216), (1218, 1441), (1480, 1559), (1725, 1864), (1883, 2131), (2137, 2633), (2722, 2784)]
+Final Labeled File:
+TESTS_12000522003.min.tsv
+[('start = 126', 'end = 177', 'label = Turn'), ('start = 207', 'end = 667', 'label = Turn'), ('start = 667', 'end = 728', 'label = Turn'), ('start = 728', 'end = 1001', 'label = Turn'), ('start = 1009', 'end = 1070', 'label = Turn'), ('start = 1099', 'end = 1210', 'label = Turn'), ('start = 1248', 'end = 1432', 'label = Turn'), ('start = 1480', 'end = 1539', 'label = Turn'), ('start = 1733', 'end = 1780', 'label = Turn'), ('start = 1780', 'end = 1849', 'label = Turn'), ('start = 1883', 'end = 2098', 'label = Turn'), 
+('start = 2159', 'end = 2263', 'label = Turn'), ('start = 2263', 'end = 2489', 'label = Lazy8'), ('start = 2489', 'end = 2619', 'label = Turn'), ('start = 2722', 'end = 2761', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13001211008.min.tsv
+[]
+
+
+
+[(19, 173), (397, 496), (557, 685), (875, 1019)]
+Final Labeled File:
+TESTS_13001110007.min.tsv
+[('start = 33', 'end = 161', 'label = Turn'), ('start = 401', 'end = 494', 'label = Turn'), ('start = 565', 'end = 681', 'label = Turn'), ('start = 883', 'end = 994', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_13001204002.min.tsv
+[]
+
+
+
+[(922, 1183), (1470, 2932)]
+Final Labeled File:
+TRAIN_12000972006.min.tsv
+[('start = 922', 'end = 1175', 'label = Turn'), ('start = 1470', 'end = 1711', 'label = Turn'), ('start = 1711', 'end = 2115', 'label = Turn'), ('start = 2115', 'end = 2415', 'label = Turn'), ('start = 2429', 'end = 2733', 'label = Turn'), ('start = 2747', 'end = 2930', 'label = Turn')]
+
+
+
+[(8, 166), (230, 690), (698, 771), (827, 1033)]
+Final Labeled File:
+TESTS_13001465013.min.tsv
+[('start = 8', 'end = 128', 'label = Turn'), ('start = 274', 'end = 675', 'label = Turn'), ('start = 845', 'end = 1029', 'label = Turn')]
+
+
+
+[(182, 318), (2667, 2785), (2796, 2868)]
+Final Labeled File:
+TRAIN_13001325004.min.tsv
+[]
+
+
+
+[(639, 719), (885, 1031), (1062, 1368), (1371, 1463), (1476, 1558), (1655, 1785)]
+Final Labeled File:
+TRAIN_13001145004.min.tsv
+[('start = 639', 'end = 717', 'label = Turn'), ('start = 885', 'end = 1029', 'label = Turn'), ('start = 1066', 'end = 1349', 'label = Turn'), ('start = 1385', 'end = 1447', 'label = Turn'), ('start = 1480', 'end = 1541', 'label = Turn'), ('start = 1655', 'end = 1771', 'label = Loop')]
+
+
+
+[(1908, 2003), (2020, 2083), (2114, 2169)]
+Final Labeled File:
+TRAIN_13001473001.min.tsv
+[]
+
+
+
+[(798, 1069), (1113, 1164)]
+Final Labeled File:
+TRAIN_13001214005.min.tsv
+[('start = 798', 'end = 1051', 'label = Turn')]
+
+
+
+[(723, 783), (819, 892), (970, 1026), (1800, 1964), (1975, 2126), (2233, 2368)]
+Final Labeled File:
+TESTS_12001325001.min.tsv
+[('start = 727', 'end = 777', 'label = Turn'), ('start = 819', 'end = 886', 'label = Turn'), ('start = 974', 'end = 1022', 'label = Turn'), ('start = 1812', 'end = 1950', 'label = Turn'), ('start = 1983', 'end = 2079', 'label = Turn'), ('start = 2237', 'end = 2363', 'label = Turn')]
+
+
+
+[(1270, 1325)]
+Final Labeled File:
+TESTS_13001528004.min.tsv
+[]
+
+
+
+[(230, 311), (347, 486), (1138, 1187)]
+Final Labeled File:
+TESTS_12001797014.min.tsv
+[('start = 347', 'end = 433', 'label = Turn')]
+
+
+
+[(1367, 1492)]
+Final Labeled File:
+TESTS_12001243002.min.tsv
+[('start = 1375', 'end = 1473', 'label = Turn')]
+
+
+
+[(631, 723), (742, 797), (800, 922), (3115, 3290)]
+Final Labeled File:
+TESTS_13000276006.min.tsv
+[('start = 631', 'end = 721', 'label = Turn'), ('start = 804', 'end = 918', 'label = Turn'), ('start = 3115', 'end = 3271', 'label = Turn')]
+
+
+
+[(1070, 1409), (1452, 1542), (1827, 2081)]
+Final Labeled File:
+VAL_L_13001328007.min.tsv
+[('start = 1129', 'end = 1399', 'label = Turn'), ('start = 1452', 'end = 1514', 'label = Turn'), ('start = 1827', 'end = 2068', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13001020002.min.tsv
+[]
+
+
+
+[(8, 84), (328, 496), (647, 698), (735, 798), (837, 1015), (1283, 1334), (1355, 1538), (1676, 1729), (1779, 1853), (1881, 2008), (2275, 2404), (2556, 2617), (2642, 2727), (2778, 2829), (2838, 2935), (2961, 3043), (3068, 3468), (3769, 3839), (3965, 4043), (4327, 4414), (4473, 4577), (4753, 4903), (4988, 5175), (5347, 5402), (5545, 5633), (5757, 5840), (5872, 6107)]
+Final Labeled File:
+TESTS_13001123001.min.tsv
+[('start = 8', 'end = 77', 'label = Turn'), ('start = 328', 'end = 486', 'label = Turn'), ('start = 651', 'end = 684', 'label = Turn'), ('start = 735', 'end = 786', 'label = Turn'), ('start = 837', 'end = 1013', 'label = Turn'), ('start = 1355', 'end = 1534', 'label = Turn'), ('start = 1680', 'end = 1727', 'label = Turn'), ('start = 1783', 'end = 1842', 'label = Turn'), ('start = 1885', 'end = 1996', 'label = Turn'), ('start = 2275', 'end = 2395', 'label = Turn'), ('start = 2560', 'end = 2607', 'label = Turn'), ('start = 2642', 'end = 2711', 'label = Turn'), ('start = 2838', 'end = 2933', 'label = Turn'), ('start = 3068', 'end = 3455', 'label = Turn'), ('start = 3769', 'end = 3828', 'label = Turn'), ('start = 3965', 'end = 4034', 'label = Turn'), ('start = 4327', 'end = 4404', 'label = Turn'), ('start = 4473', 'end = 4575', 'label = Turn'), ('start = 4761', 'end = 4898', 'label = Turn'), ('start = 4988', 'end = 5171', 'label = Turn'), ('start = 5545', 'end = 5622', 'label = Turn'), ('start = 5761', 'end = 5830', 'label = Turn'), ('start = 5872', 'end = 5931', 'label = Turn'), ('start = 6007', 'end = 6071', 'label = Turn')]
+
+
+
+[(8, 94), (190, 259), (273, 412), (458, 541), (656, 815), (839, 914), (927, 1004), (1008, 1059), (1062, 1165), (1280, 1563), (1566, 1762), (1955, 2100)]
+Final Labeled File:
+TRAIN_12002541019.min.tsv
+[('start = 8', 'end = 92', 'label = Turn'), ('start = 198', 'end = 253', 'label = Turn'), ('start = 273', 'end = 395', 'label = Turn'), ('start = 664', 'end = 711', 'label = Turn'), ('start = 711', 'end = 810', 'label = Turn'), ('start = 839', 'end = 911', 'label = Turn'), ('start = 927', 'end = 998', 'label = Turn'), ('start = 1008', 'end = 1047', 'label = Turn'), ('start = 1096', 'end = 1155', 'label = Turn'), ('start = 1284', 'end = 1353', 'label = Turn'), ('start = 1433', 'end = 1557', 'label = Turn'), ('start = 1595', 'end = 1671', 'label = Aileron Roll'), ('start = 1675', 'end = 1754', 'label = Turn'), ('start = 1955', 'end = 2006', 'label = Turn'), ('start = 2006', 'end = 2091', 'label = Turn')]
+
+
+
+[(1131, 1240)]
+Final Labeled File:
+TRAIN_12000129005.min.tsv
+[('start = 1139', 'end = 1234', 'label = Turn')]
+
+
+
+[(65, 119), (159, 267), (393, 448), (497, 1175), (1181, 1316), (1313, 1383)]
+Final Labeled File:
+TESTS_12002353006.min.tsv
+[('start = 208', 'end = 261', 'label = Turn'), ('start = 551', 'end = 1158', 'label = Turn'), ('start = 1181', 'end = 1306', 'label = Turn'), ('start = 1313', 'end = 1352', 'label = Turn')]
+
+
+[(135, 298)]
+Final Labeled File:
+VAL_S_12000114006.min.tsv
+[('start = 157', 'end = 281', 'label = Turn')]
+
+
+
+[(262, 582), (733, 797), (1293, 1350)]
+Final Labeled File:
+TRAIN_12001417001.min.tsv
+[('start = 262', 'end = 491', 'label = Turn'), ('start = 491', 'end = 541', 'label = Turn')]
+
+
+
+[(15, 68), (259, 391), (530, 694), (1350, 1412), (1461, 1583)]
+Final Labeled File:
+VAL_L_13000206003.min.tsv
+[('start = 263', 'end = 386', 'label = Turn'), ('start = 534', 'end = 689', 'label = Turn'), ('start = 1483', 'end = 1545', 'label = Turn')]
+
+
+
+[(468, 545), (1343, 1425), (1613, 1710), (1727, 1907), (1957, 2053), (2093, 2208), (2210, 2273), (2316, 2461), (2653, 2854)]
+Final Labeled File:
+TESTS_12002377002.min.tsv
+[('start = 472', 'end = 531', 'label = Turn'), ('start = 1343', 'end = 1423', 'label = Turn'), ('start = 1613', 'end = 1700', 'label = Turn'), ('start = 1727', 'end = 1905', 'label = Turn'), ('start = 2093', 'end = 2206', 'label = Turn'), ('start = 2316', 'end 
+= 2459', 'label = Turn'), ('start = 2653', 'end = 2852', 'label = Turn')]
+
+
+
+[(5597, 5720)]
+Final Labeled File:
+TRAIN_13001440002.min.tsv
+[]
+
+
+
+[(1508, 1719), (1983, 2213), (2364, 2553)]
+Final Labeled File:
+TESTS_13001013003.min.tsv
+[('start = 1529', 'end = 1673', 'label = Turn'), ('start = 1983', 'end = 2144', 'label = Turn'), ('start = 2364', 'end = 2547', 'label = Turn')]
+
+
+
+[(657, 709), (834, 972), (1481, 1636), (2084, 2168), (2298, 2366)]
+Final Labeled File:
+TRAIN_12001527001.min.tsv
+[('start = 852', 'end = 929', 'label = Turn'), ('start = 933', 'end = 966', 'label = Turn'), ('start = 1498', 'end = 1630', 'label = Turn'), ('start = 2084', 'end = 2162', 'label = Turn')]
+
+
+
+[(517, 643), (1212, 1353), (1583, 1643)]
+Final Labeled File:
+TRAIN_13001029003.min.tsv
+[('start = 543', 'end = 636', 'label = Turn'), ('start = 1220', 'end = 1344', 'label = Turn')]
+
+
+
+[(8, 193), (511, 581), (679, 761), (764, 976), (979, 1038)]
+Final Labeled File:
+TRAIN_13001106005.min.tsv
+[('start = 8', 'end = 191', 'label = Turn'), ('start = 515', 'end = 576', 'label = Turn'), ('start = 679', 'end = 759', 'label = Turn'), ('start = 764', 'end = 902', 'label = Turn'), ('start = 906', 'end = 970', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_13001437001.min.tsv
+[]
+
+
+
+[(49, 118), (122, 184), (312, 408), (439, 505), (529, 658), (909, 1037), (1111, 1456)]
+Final Labeled File:
+TESTS_12002045005.min.tsv
+[('start = 909', 'end = 1035', 'label = Turn'), ('start = 1123', 'end = 1400', 'label = Turn')]
+
+
+
+[(8, 99), (311, 396), (1289, 1381), (2097, 2173)]
+Final Labeled File:
+TRAIN_12000997004.min.tsv
+[('start = 42', 'end = 89', 'label = Turn'), ('start = 325', 'end = 387', 'label = Turn'), ('start = 1289', 'end = 1379', 'label = Turn'), ('start = 2101', 'end = 2168', 'label = Aileron Roll')]
+
+
+
+[(141, 236), (238, 312), (360, 456), (581, 647), (674, 810), (928, 1107), (1118, 1193), (1250, 1404), (1467, 1585), (1802, 1901)]
+Final Labeled File:
+TRAIN_12001037005.min.tsv
+[('start = 141', 'end = 209', 'label = Turn'), ('start = 382', 'end = 421', 'label = Turn'), ('start = 692', 'end = 753', 'label = Turn'), ('start = 753', 'end = 804', 'label = Turn'), ('start = 932', 'end = 991', 'label = Turn'), ('start = 1272', 'end = 1394', 'label = Turn'), ('start = 1471', 'end = 1510', 'label = Turn'), ('start = 1510', 'end = 1571', 'label = Turn'), ('start = 1806', 'end = 1845', 'label = Turn')]
+
+
+
+[(1503, 1585), (2059, 2140)]
+Final Labeled File:
+VAL_L_12000077002.min.tsv
+[]
+
+
+
+[(117, 169), (187, 335), (351, 859), (866, 995)]
+Final Labeled File:
+TRAIN_13001081001.min.tsv
+[('start = 187', 'end = 290', 'label = Barrel Roll'), ('start = 351', 'end = 489', 'label = Turn'), ('start = 507', 'end = 634', 'label = Barrel Roll'), ('start = 638', 'end = 760', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_13000978002.min.tsv
+[]
+
+
+
+[(8, 141), (367, 427), (1047, 1137)]
+Final Labeled File:
+TRAIN_12000732012.min.tsv
+[('start = 8', 'end = 138', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13000979001.min.tsv
+[]
+
+
+
+[(108, 492), (724, 820), (1894, 2011), (2165, 2383)]
+Final Labeled File:
+TESTS_13001106011.min.tsv
+[('start = 199', 'end = 482', 'label = Turn'), ('start = 738', 'end = 800', 'label = Turn'), ('start = 1894', 'end = 2007', 'label = Turn'), ('start = 2191', 'end = 2377', 'label = Turn')]
+
+
+
+[(405, 823), (873, 970)]
+Final Labeled File:
+TRAIN_12001990001.min.tsv
+[('start = 405', 'end = 504', 'label = Turn'), ('start = 518', 'end = 713', 'label = Turn'), ('start = 713', 'end = 821', 'label = Turn'), ('start = 873', 'end = 956', 'label = Turn')]
+
+
+
+[(8, 230), (314, 429), (551, 651), (701, 827), (891, 1048), (1081, 1418), (1423, 1539), (1569, 2081), (2107, 2441), (2455, 2552), (2591, 2700)]
+Final Labeled File:
+TRAIN_12000550004.min.tsv
+[('start = 22', 'end = 133', 'label = Turn'), ('start = 163', 'end = 210', 'label = Turn'), ('start = 322', 'end = 361', 'label = Turn'), ('start = 551', 'end = 649', 'label = Turn'), ('start = 723', 'end = 807', 'label = Turn'), ('start = 895', 'end = 1044', 'label = Turn'), ('start = 1103', 'end = 1296', 'label = Turn'), ('start = 1304', 'end = 1384', 'label = Turn'), ('start = 1458', 'end = 1517', 'label = Turn'), ('start = 1583', 'end = 1691', 'label = Turn'), ('start = 1691', 'end = 1742', 'label = Turn'), ('start = 1756', 'end = 1905', 'label = Turn'), ('start = 1905', 'end = 2060', 'label = Turn'), ('start = 2107', 'end = 2231', 'label = Turn'), ('start = 2231', 'end = 2439', 'label = Turn'), ('start = 2455', 'end = 2550', 'label = Turn'), ('start = 2591', 'end = 2684', 'label = Turn')]
+
+[(1277, 1417), (1673, 2039), (2163, 2265), (2407, 2506), (2629, 2755), (2840, 2908), (2956, 3079), (3190, 3388)]
+Final Labeled File:
+TESTS_13001211010.min.tsv
+[('start = 1294', 'end = 1394', 'label = Turn'), ('start = 1673', 'end = 2006', 'label = Turn'), ('start = 2163', 'end = 2263', 'label = Turn'), ('start = 2407', 'end = 2502', 'label = Turn'), ('start = 2643', 'end = 2745', 'label = Immelman'), ('start = 2968', 'end = 3070', 'label = Immelman'), ('start = 3190', 'end = 3292', 'label = Immelman'), ('start = 3292', 'end = 3371', 'label = Turn')]
+
+
+
+[(8, 77), (495, 584), (888, 952), (1001, 1194)]
+Final Labeled File:
+TRAIN_12001337028.min.tsv
+[('start = 8', 'end = 55', 'label = Turn'), ('start = 526', 'end = 565', 'label = Turn'), ('start = 888', 'end = 935', 'label = Turn'), ('start = 1048', 'end = 1087', 'label = Turn'), ('start = 1095', 'end = 1157', 'label = Turn')]
+
+
+
+[(114, 210), (278, 371), (557, 637), (724, 795), (948, 1107)]
+Final Labeled File:
+TRAIN_13000956001.min.tsv
+[('start = 122', 'end = 191', 'label = Turn'), ('start = 278', 'end = 369', 'label = Turn'), ('start = 557', 'end = 635', 'label = Turn'), ('start = 732', 'end = 791', 'label = Turn'), ('start = 948', 'end = 1097', 'label = Turn')]
+
+
+
+[(8, 331), (379, 756), (758, 2540)]
+Final Labeled File:
+TRAIN_13001526020.min.tsv
+[('start = 8', 'end = 316', 'label = Turn'), ('start = 379', 'end = 478', 'label = Turn'), ('start = 478', 'end = 612', 'label = Immelman'), ('start = 612', 'end = 750', 'label = Loop'), ('start = 772', 'end = 1180', 'label = Turn'), ('start = 1180', 'end = 1406', 'label = Lazy8'), ('start = 1406', 'end = 1687', 'label = Lazy8'), ('start = 1687', 'end = 2534', 'label = Turn')]
+
+
+
+[(29, 102), (133, 184), (485, 825)]
+Final Labeled File:
+TRAIN_13001142019.min.tsv
+[('start = 43', 'end = 94', 'label = Turn'), ('start = 513', 'end = 815', 'label = Turn')]
+
+
+
+[(283, 479), (721, 879)]
+Final Labeled File:
+TESTS_13001203040.min.tsv
+[('start = 283', 'end = 469', 'label = Turn'), ('start = 721', 'end = 863', 'label = Turn')]
+
+
+
+[(101, 157), (223, 427), (692, 767), (785, 1245)]
+Final Labeled File:
+TESTS_12002635024.min.tsv
+[('start = 105', 'end = 152', 'label = Turn'), ('start = 223', 'end = 407', 'label = Turn'), ('start = 692', 'end = 765', 'label = Turn'), ('start = 799', 'end = 1144', 'label = Turn'), ('start = 1144', 'end = 1241', 'label = Turn')]
+
+
+
+[(120, 231), (272, 577)]
+Final Labeled File:
+TRAIN_12001231003.min.tsv
+[('start = 120', 'end = 229', 'label = Turn'), ('start = 280', 'end = 573', 'label = Turn')]
+
+
+
+[(8, 86), (347, 467), (672, 906), (1118, 1271), (1428, 1643), (1786, 2011), (2212, 2284), (2403, 2465), (2605, 2743)]
+Final Labeled File:
+TRAIN_13000488001.min.tsv
+[('start = 8', 'end = 76', 'label = Turn'), ('start = 347', 'end = 457', 'label = Turn'), ('start = 672', 'end = 889', 'label = Turn'), ('start = 1118', 'end = 1256', 'label = Turn'), ('start = 1428', 'end = 1636', 'label = Turn'), ('start = 1800', 'end = 1848', 'label = Turn'), ('start = 1848', 'end = 2001', 'label = Turn'), ('start = 2212', 'end = 2282', 'label = Turn'), ('start = 2403', 'end = 2462', 'label = Turn'), ('start = 2613', 'end = 2740', 'label = Turn')]
+
+
+
+[(1083, 1159), (1176, 1502), (2130, 2252), (2607, 2743), (2910, 3092), (3196, 3298), (3534, 3718)]
+Final Labeled File:
+TRAIN_13001342004.min.tsv
+[('start = 1083', 'end = 1122', 'label = Turn'), ('start = 1176', 'end = 1300', 'label = Turn'), ('start = 1347', 'end = 1496', 'label = Turn'), ('start = 2134', 'end = 2212', 'label = Turn'), ('start = 2625', 'end = 2687', 'label = Turn'), ('start = 2918', 'end = 3088', 'label = Turn'), ('start = 3237', 'end = 3288', 'label = Turn'), ('start = 3548', 'end = 3662', 'label = Turn')]
+
+
+
+[(250, 334), (347, 421), (517, 582), (971, 1027), (1052, 1189), (1389, 1570), (1771, 1840)]
+Final Labeled File:
+TRAIN_13001145002.min.tsv
+[('start = 250', 'end = 330', 'label = Turn'), ('start = 347', 'end = 408', 'label = Turn'), ('start = 1052', 'end = 1187', 'label = Turn'), ('start = 1389', 'end = 1568', 'label = Turn')]
+
+
+[(1277, 1417), (1673, 2039), (2163, 2265), (2407, 2506), (2629, 2755), (2840, 2908), (2956, 3079), (3190, 3388)]
+Final Labeled File:
+TESTS_13001211010.min.tsv
+[('start = 1277', 'end = 1403', 'label = Turn'), ('start = 1682', 'end = 1999', 'label = Turn'), ('start = 2163', 'end = 2263', 'label = Turn'), ('start = 2407', 'end = 2502', 'label = Turn'), ('start = 2643', 'end = 2747', 'label = Immelman'), ('start = 2965', 'end = 3059', 'label = Immelman'), ('start = 3199', 'end = 3293', 'label = Immelman'), ('start = 3297', 'end = 3372', 'label = Turn')]
+
+
+
+[(468, 638), (5247, 5445), (6223, 6293), (9113, 9236), (11822, 12005), (12795, 12974)]
+Final Labeled File:
+TRAIN_12000120002.min.tsv
+[('start = 468', 'end = 636', 'label = Turn'), ('start = 5251', 'end = 5437', 'label = Turn'), ('start = 6237', 'end = 6276', 'label = Turn'), ('start = 9127', 'end = 9220', 'label = Turn'), ('start = 11826', 'end = 11982', 'label = Turn'), ('start = 12812', 'end = 12962', 'label = Turn')]
+
+
+
+[(581, 676), (754, 817), (1119, 1298), (1301, 1510), (1616, 1755), (1773, 1940), (1942, 2149), (2284, 2385), (2396, 2654), (2809, 3062), (3073, 3166), (3183, 3345), (3421, 3493), (3544, 3657), (3819, 3967), (4179, 4324), (4628, 4733), (4855, 5076), (5439, 5603), (5696, 6153), (6285, 6601), (6830, 7047)]
+Final Labeled File:
+TRAIN_13001300003.min.tsv
+[('start = 590', 'end = 651', 'label = Turn'), ('start = 1127', 'end = 1254', 'label = Turn'), ('start = 1322', 'end = 1485', 'label = Turn'), ('start = 1616', 'end = 1735', 'label = Split s'), ('start = 1773', 'end = 1938', 'label = Turn'), ('start = 1942', 'end = 2068', 'label = Loop'), ('start = 2072', 'end = 2136', 'label = Turn'), ('start = 2296', 'end = 2372', 'label = Split s'), ('start = 2396', 'end = 2641', 'label = Turn'), ('start = 2818', 'end = 2930', 'label = Immelman'), ('start = 2942', 'end = 3057', 'label = Barrel Roll'), ('start = 3073', 'end = 3164', 'label = Split s'), ('start = 3183', 'end = 3343', 'label = Turn'), ('start = 3421', 'end = 3482', 'label = Turn'), ('start = 3553', 'end = 3630', 'label = Turn'), ('start = 3819', 'end = 3965', 'label = Turn'), ('start = 4179', 'end = 4322', 'label = Turn'), ('start = 4628', 'end = 4731', 'label = Turn'), ('start = 4855', 'end = 5073', 'label = Turn'), ('start = 5439', 'end = 5601', 'label = Turn'), ('start = 5700', 'end = 6148', 'label = Turn'), ('start = 6285', 
+'end = 6572', 'label = Turn'), ('start = 6858', 'end = 7043', 'label = Turn')]
+
+
+
+[(8, 73), (180, 243), (438, 505), (705, 939), (1227, 1455)]
+Final Labeled File:
+TRAIN_13001203029.min.tsv
+[('start = 8', 'end = 70', 'label = Turn'), ('start = 188', 'end = 227', 'label = Turn'), ('start = 438', 'end = 500', 'label = Turn'), ('start = 705', 'end = 935', 'label = Turn'), ('start = 1227', 'end = 1448', 'label = Turn')]
+
+
+
+[(245, 538), (810, 862), (923, 1010), (1452, 1562), (1581, 1861), (1939, 2101), (2216, 2473), (2574, 2752), (2790, 2944), (2990, 3048), (3124, 3177), (3268, 3321)]
+Final Labeled File:
+TRAIN_13001378005.min.tsv
+[('start = 253', 'end = 501', 'label = Turn'), ('start = 810', 'end = 849', 'label = Turn'), ('start = 962', 'end = 1001', 'label = Turn'), ('start = 1452', 'end = 1549', 'label = Turn'), ('start = 1630', 'end = 1757', 'label = Turn'), ('start = 1939', 'end = 2081', 'label = Turn'), ('start = 2246', 'end = 2405', 'label = Turn'), ('start = 2574', 'end = 2733', 'label = Turn'), ('start = 2802', 'end = 2921', 'label = Turn')]
+
+
+
+[(2, 1456)]
+Final Labeled File:
+TRAIN_12002464004.min.tsv
+[]
+
+
+
+[(771, 828)]
+Final Labeled File:
+VAL_S_12001231002.min.tsv
+[('start = 771', 'end = 823', 'label = Turn')]
+
+
+
+[(34, 89), (171, 311), (578, 669), (752, 804), (1004, 1166)]
+Final Labeled File:
+TRAIN_12001456002.min.tsv
+[('start = 185', 'end = 305', 'label = Turn'), ('start = 578', 'end = 659', 'label = Turn'), ('start = 752', 'end = 799', 'label = Turn'), ('start = 1004', 'end = 1164', 'label = Turn')]
+
+
+
+[(8, 202), (207, 500), (636, 706), (720, 834), (837, 978)]
+Final Labeled File:
+TRAIN_13000158003.min.tsv
+[('start = 8', 'end = 127', 'label = Turn'), ('start = 237', 'end = 455', 'label = Turn'), ('start = 734', 'end = 781', 'label = Turn'), ('start = 872', 'end = 919', 'label = Turn')]
+
+
+
+[(3186, 3265)]
+Final Labeled File:
+TRAIN_12002207001.min.tsv
+[('start = 3195', 'end = 3234', 'label = Turn')]
+
+
+
+[(703, 812), (828, 1152)]
+Final Labeled File:
+TRAIN_12000077003.min.tsv
+[('start = 724', 'end = 804', 'label = Turn'), ('start = 828', 'end = 1120', 'label = Turn')]
+
+
+
+[(163, 432), (622, 791), (999, 1193), (1269, 1332), (1452, 1627), (1824, 2046), (2083, 2134), (2359, 2579), (2692, 2760), (2769, 2989), (3231, 3391), (3564, 3839), (3897, 3963), (4011, 4225), (4402, 4586)]
+Final Labeled File:
+TRAIN_13001547002.min.tsv
+[('start = 167', 'end = 397', 'label = Turn'), ('start = 622', 'end = 770', 'label = Turn'), ('start = 999', 'end = 1188', 'label = Turn'), ('start = 1452', 'end = 1622', 'label = Turn'), ('start = 1824', 'end = 2030', 'label = Turn'), ('start = 2359', 'end = 2515', 'label = Turn'), ('start = 2773', 'end = 2981', 'label = Turn'), ('start = 3231', 'end = 3372', 'label = Turn'), ('start = 3589', 'end = 3772', 'label = Turn'), ('start = 4011', 'end = 4179', 'label = Turn'), ('start = 4406', 'end = 4583', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_12001583001.min.tsv
+[]
+
+
+
+[(455, 877), (954, 1697), (1722, 1803), (1894, 2536), (2586, 2638), (2716, 2937), (2942, 3013), (3078, 3135), (3153, 3520)]
+Final Labeled File:
+TRAIN_12000549004.min.tsv
+[('start = 463', 'end = 511', 'label = Turn'), ('start = 511', 'end = 871', 'label = Turn'), ('start = 962', 'end = 1004', 'label = Turn'), ('start = 1004', 'end = 1683', 'label = Turn'), ('start = 1726', 'end = 1773', 'label = Turn'), ('start = 1898', 'end = 1946', 'label = Turn'), ('start = 1946', 'end = 2003', 'label = Turn'), ('start = 2085', 'end = 2161', 'label = Turn'), ('start = 2195', 'end = 2256', 'label = Turn'), ('start = 2256', 'end = 2334', 'label = Turn'), ('start = 2357', 'end = 2416', 'label = Turn'), ('start = 2424', 'end = 2533', 'label = Turn'), ('start = 2716', 'end = 2764', 'label = Turn'), ('start = 2764', 'end = 2903', 'label = Turn'), ('start = 3153', 'end = 3195', 'label = Turn'), ('start = 3195', 'end = 3514', 'label = Turn')]
+
+
+
+[(8, 138), (349, 460), (580, 633), (638, 863), (1017, 1139)]
+Final Labeled File:
+TESTS_13001218007.min.tsv
+[('start = 8', 'end = 119', 'label = Turn'), ('start = 349', 'end = 458', 'label = Turn'), ('start = 584', 'end = 623', 'label = Turn'), ('start = 650', 'end = 839', 'label = Turn'), ('start = 1025', 'end = 1135', 'label = Turn')]
+
+
+
+[(8, 441), (801, 1168), (1288, 2206), (2292, 2446), (2503, 2675)]
+Final Labeled File:
+TESTS_13001117003.min.tsv
+[('start = 24', 'end = 108', 'label = Turn'), ('start = 181', 'end = 438', 'label = Turn'), ('start = 801', 'end = 1022', 'label = Turn'), ('start = 1022', 'end = 1160', 'label = Loop'), ('start = 1288', 'end = 1615', 'label = Lazy8'), ('start = 1615', 'end = 1708', 'label = Turn'), ('start = 1708', 'end = 1834', 'label = Loop'), ('start = 1856', 'end = 2074', 'label = Turn'), ('start = 2074', 'end = 2192', 'label = Immelman'), ('start = 2300', 'end = 2416', 'label = Turn'), ('start = 2545', 'end = 2663', 'label = Turn')]
+
+
+
+[(8, 200), (245, 1001)]
+Final Labeled File:
+TRAIN_13001561001.min.tsv
+[('start = 71', 'end = 135', 'label = Turn'), ('start = 249', 'end = 329', 'label = Turn'), ('start = 329', 'end = 998', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13000820003.min.tsv
+[]
+
+
+
+[(242, 693), (1098, 1438), (2289, 2424), (2451, 2605), (2644, 2824)]
+Final Labeled File:
+TESTS_13001379006.min.tsv
+[('start = 242', 'end = 671', 'label = Turn'), ('start = 1098', 'end = 1416', 'label = Turn'), ('start = 2451', 'end = 2603', 'label = Turn'), ('start = 2648', 'end = 2779', 'label = Turn')]
+
+
+
+[(131, 222), (412, 998), (1026, 1354), (1411, 1500)]
+Final Labeled File:
+TRAIN_12000878004.min.tsv
+[('start = 587', 'end = 879', 'label = Turn'), ('start = 883', 'end = 995', 'label = Turn'), ('start = 1058', 'end = 1091', 'label = Turn'), ('start = 1108', 'end = 1256', 'label = Turn'), ('start = 1268', 'end = 1332', 'label = Turn'), ('start = 1411', 'end = 
+1450', 'label = Turn')]
+
+
+
+[(8, 74), (336, 400)]
+Final Labeled File:
+TRAIN_13001235011.min.tsv
+[('start = 8', 'end = 66', 'label = Turn'), ('start = 344', 'end = 394', 'label = Turn')]
+
+
+
+[(120, 194), (336, 421), (429, 556), (656, 723), (728, 1085), (1094, 1231)]
+Final Labeled File:
+TRAIN_13000120001.min.tsv
+[('start = 340', 'end = 401', 'label = Turn'), ('start = 437', 'end = 550', 'label = Turn'), ('start = 750', 'end = 1062', 'label = Turn'), ('start = 1098', 'end = 1162', 'label = Turn')]
+
+
+
+[(8, 84), (373, 608), (612, 699), (712, 768), (776, 832), (963, 1012)]
+Final Labeled File:
+TRAIN_12001337026.min.tsv
+[('start = 8', 'end = 59', 'label = Turn'), ('start = 385', 'end = 533', 'label = Turn'), ('start = 533', 'end = 602', 'label = Turn'), ('start = 621', 'end = 697', 'label = Turn'), ('start = 712', 'end = 763', 'label = Turn'), ('start = 776', 'end = 827', 'label = Turn')]
+
+
+
+[(1046, 1182), (1667, 1781), (2377, 2495)]
+Final Labeled File:
+TRAIN_12001243008.min.tsv
+[('start = 1050', 'end = 1180', 'label = Turn'), ('start = 1684', 'end = 1778', 'label = Turn'), ('start = 2377', 'end = 2493', 'label = Turn')]
+
+
+
+Final Labeled File:
+TESTS_13001073003.min.tsv
+[('start = 1149', 'end = 1242', 'label = Turn'), ('start = 1302', 'end = 1728', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13001445011.min.tsv
+[]
+
+
+
+[(32, 110), (347, 678), (1318, 1381)]
+Final Labeled File:
+TRAIN_12001350006.min.tsv
+[('start = 377', 'end = 445', 'label = Turn'), ('start = 445', 'end = 647', 'label = Turn')]
+
+
+
+[(17, 166), (498, 562), (790, 1131), (1293, 1373), (1400, 1450), (2131, 2185), (2604, 2677)]
+Final Labeled File:
+TRAIN_13001303002.min.tsv
+[('start = 17', 'end = 164', 'label = Turn'), ('start = 799', 'end = 1122', 'label = Turn'), ('start = 1301', 'end = 1363', 'label = Turn'), ('start = 1404', 'end = 1443', 'label = Turn')]
+
+
+
+[(127, 240), (265, 327), (622, 712), (718, 797), (871, 924), (953, 1003), (1052, 1438)]
+Final Labeled File:
+TESTS_13000643020.min.tsv
+[('start = 127', 'end = 238', 'label = Turn'), ('start = 273', 'end = 320', 'label = Turn'), ('start = 638', 'end = 699', 'label = Turn'), ('start = 730', 'end = 791', 'label = Turn'), ('start = 1052', 'end = 1432', 'label = Turn')]
+
+
+
+[(742, 839), (2200, 2274), (2328, 2444), (2823, 2884), (2908, 2968), (2983, 3082), (4489, 4589), (5206, 5284), (6053, 6111), (6113, 6185)]
+Final Labeled File:
+TESTS_12000378001.min.tsv
+[('start = 2208', 'end = 2255', 'label = Turn'), ('start = 2362', 'end = 2440', 'label = Turn'), ('start = 4489', 'end = 4548', 'label = Turn')]
+
+
+
+[(903, 968)]
+Final Labeled File:
+TRAIN_13001212016.min.tsv
+[]
+
+
+
+[(176, 242), (1388, 1472), (1513, 1650), (1654, 1766), (1901, 2013), (2034, 2194), (2329, 2483)]
+Final Labeled File:
+TRAIN_13001237008.min.tsv
+[('start = 176', 'end = 227', 'label = Turn'), ('start = 1397', 'end = 1458', 'label = Turn'), ('start = 1543', 'end = 1634', 'label = Turn'), ('start = 1929', 'end = 1993', 'label = Turn'), ('start = 2048', 'end = 2110', 'label = Turn'), ('start = 2329', 'end 
+= 2481', 'label = Turn')]
+
+
+
+[(8, 177), (395, 596), (852, 1045), (1264, 1492)]
+Final Labeled File:
+TESTS_13001202006.min.tsv
+[('start = 8', 'end = 167', 'label = Turn'), ('start = 395', 'end = 582', 'label = Turn'), ('start = 852', 'end = 1039', 'label = Turn'), ('start = 1273', 'end = 1479', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_12000812002.min.tsv
+[]
+
+
+
+[(158, 236), (266, 462), (663, 928), (970, 1090)]
+Final Labeled File:
+TESTS_13001201002.min.tsv
+[('start = 266', 'end = 460', 'label = Turn'), ('start = 663', 'end = 926', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13001158011.min.tsv
+[]
+
+
+
+[(162, 213), (1157, 1503)]
+Final Labeled File:
+TESTS_13000276011.min.tsv
+[('start = 1169', 'end = 1479', 'label = Turn')]
+
+
+
+[(419, 565), (807, 973)]
+Final Labeled File:
+TRAIN_13001121028.min.tsv
+[('start = 419', 'end = 563', 'label = Turn'), ('start = 811', 'end = 960', 'label = Turn')]
+
+
+
+[(184, 267), (339, 441), (614, 784), (874, 1085), (1349, 1471), (1561, 1637), (1908, 1976), (2048, 2167)]
+Final Labeled File:
+TESTS_13000820002.min.tsv
+[('start = 184', 'end = 261', 'label = Turn'), ('start = 347', 'end = 435', 'label = Turn'), ('start = 614', 'end = 773', 'label = Turn'), ('start = 883', 'end = 1052', 'label = Turn'), ('start = 1349', 'end = 1469', 'label = Turn'), ('start = 1561', 'end = 1633', 'label = Turn'), ('start = 1908', 'end = 1967', 'label = Turn'), ('start = 2062', 'end = 2154', 'label = Turn')]
+
+
+
+[(325, 409), (489, 567), (1862, 1968)]
+Final Labeled File:
+VAL_S_13000643013.min.tsv
+[]
+
+
+
+[]
+Final Labeled File:
+TESTS_12000732020.min.tsv
+[]
+
+
+
+[]
+Final Labeled File:
+TRAIN_12001510002.min.tsv
+[]
+
+
+
+[]
+Final Labeled File:
+TRAIN_12000068001.min.tsv
+[]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13001035001.min.tsv
+[]
+
+
+
+[(8, 439), (480, 612), (614, 697), (1048, 1228), (2513, 2598), (2888, 3091), (3250, 3411), (3640, 3706)]
+Final Labeled File:
+TRAIN_13001442008.min.tsv
+[('start = 17', 'end = 217', 'label = Turn'), ('start = 217', 'end = 379', 'label = Turn'), ('start = 494', 'end = 609', 'label = Turn'), ('start = 1048', 'end = 1226', 'label = Turn'), ('start = 2527', 'end = 2589', 'label = Turn'), ('start = 2902', 'end = 3071', 'label = Turn'), ('start = 3259', 'end = 3397', 'label = Turn'), ('start = 3644', 'end = 3683', 'label = Turn')]
+
+
+
+[(924, 1006), (1109, 1202), (1454, 1522), (1585, 1636), (1641, 1706), (1864, 1998), (2088, 2295), (2321, 2412), (2556, 2643), (2761, 2841), (3135, 3205), (3258, 3405), (3536, 3686), (3798, 3977), (4238, 4469), (4580, 4771), (5044, 5244), (5496, 5679), (5880, 6102), (6250, 6337), (6371, 6452), (6550, 6658), (6765, 6991), (7001, 7181), (7197, 7293), (7424, 7629), (7790, 7988), (7992, 8076), (8211, 8419), (8557, 8755), (8784, 8845)]
+Final Labeled File:
+TRAIN_13001365009.min.tsv
+[('start = 924', 'end = 975', 'label = Turn'), ('start = 1109', 'end = 1168', 'label = Turn'), ('start = 1458', 'end = 1517', 'label = Turn'), ('start = 1641', 'end = 1700', 'label = Turn'), ('start = 1864', 'end = 1996', 'label = Turn'), ('start = 2092', 'end 
+= 2284', 'label = Turn'), ('start = 2564', 'end = 2623', 'label = Turn'), ('start = 2761', 'end = 2820', 'label = Turn'), ('start = 3135', 'end = 3186', 'label = Turn'), ('start = 3258', 'end = 3360', 'label = Turn'), ('start = 3545', 'end = 3674', 'label = Turn'), ('start = 3810', 'end = 3968', 'label = Turn'), ('start = 4250', 'end = 4378', 'label = Turn'), ('start = 4589', 'end = 4758', 'label = Turn'), ('start = 5058', 'end = 5199', 'label = Turn'), ('start = 5496', 'end = 5677', 'label = Turn'), ('start = 5880', 'end = 6071', 'label = Turn'), ('start = 6258', 'end = 6320', 'label = Turn'), ('start = 6371', 'end = 6430', 'label = Turn'), ('start = 6550', 'end = 6609', 'label = Turn'), ('start = 6799', 'end = 6977', 'label = Turn'), ('start = 7027', 'end = 7171', 'label = Turn'), ('start = 7206', 'end = 7270', 'label = Turn'), ('start = 7468', 'end = 7593', 'label = Turn'), ('start = 7799', 'end = 7972', 'label = Turn'), ('start = 7996', 'end = 8035', 'label = Turn'), ('start = 8241', 'end = 8399', 'label = Turn'), ('start = 
+8612', 'end = 8745', 'label = Turn'), ('start = 8784', 'end = 8823', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_13000189001.min.tsv
+[]
+
+
+
+[(8, 61), (181, 637), (639, 712), (717, 768), (806, 1202), (1199, 1298)]
+Final Labeled File:
+TRAIN_13001345004.min.tsv
+[('start = 181', 'end = 554', 'label = Turn'), ('start = 864', 'end = 971', 'label = Turn'), ('start = 971', 'end = 1045', 'label = Turn'), ('start = 1045', 'end = 1186', 'label = Turn')]
+
+
+
+[(8, 153), (210, 273), (1197, 1283)]
+Final Labeled File:
+TRAIN_12001337008.min.tsv
+[('start = 8', 'end = 151', 'label = Turn')]
+
+
+
+[(592, 644)]
+Final Labeled File:
+TRAIN_13001122018.min.tsv
+[]
+
+
+
+[(8, 297), (528, 586), (792, 868), (937, 992), (1079, 1175), (1333, 1439), (1598, 1738), (1763, 1855), (1988, 2060), (2132, 2472), (2799, 3829), (3882, 4299), (4567, 4617), (4635, 4776), (4899, 5003), (5010, 5096), (5108, 5246), (5255, 5329), (5384, 5702), (5706, 5838), (5878, 6007), (6022, 6338)]
+Final Labeled File:
+TRAIN_12001492008.min.tsv
+[('start = 8', 'end = 289', 'label = Turn'), ('start = 528', 'end = 579', 'label = Turn'), ('start = 796', 'end = 864', 'label = Turn'), ('start = 941', 'end = 988', 'label = Turn'), ('start = 1079', 'end = 1173', 'label = Turn'), ('start = 1342', 'end = 1424', 'label = Turn'), ('start = 1607', 'end = 1710', 'label = Turn'), ('start = 1771', 'end = 1818', 'label = Turn'), ('start = 2002', 'end = 2041', 'label = Turn'), ('start = 2136', 'end = 2457', 'label = Turn'), ('start = 2808', 'end = 2898', 'label = Turn'), ('start = 2898', 'end = 2992', 'label = Turn'), ('start = 3010', 'end = 3253', 'label = Turn'), ('start = 3253', 'end = 3377', 'label = Turn'), ('start = 3377', 'end = 3597', 'label = Lazy8'), ('start = 3597', 'end = 3817', 'label = Lazy8'), ('start = 3896', 'end 
+= 4283', 'label = Turn'), ('start = 4643', 'end = 4682', 'label = Turn'), ('start = 4682', 'end = 4772', 'label = Turn'), ('start = 4931', 'end = 4997', 'label = Turn'), ('start = 5018', 'end = 5079', 'label = Turn'), ('start = 5166', 'end = 5242', 'label = Turn'), ('start = 5393', 'end = 5483', 'label = Turn'), ('start = 5535', 'end = 5695', 'label = Turn'), ('start = 5753', 'end = 5822', 'label = Turn'), ('start = 5878', 'end = 6005', 'label = Turn'), ('start = 6026', 'end = 6097', 'label = Turn'), ('start = 6116', 'end = 6199', 'label = Turn'), ('start = 6199', 'end = 6332', 'label = Turn')]
+
+
+
+[(2, 2783)]
+Final Labeled File:
+TESTS_12000510003.min.tsv
+[]
+
+
+
+[(2107, 2311), (2843, 2943), (4255, 4330), (4405, 4550), (4894, 5026), (6936, 7058)]
+Final Labeled File:
+TRAIN_12001314002.min.tsv
+[('start = 2111', 'end = 2267', 'label = Turn'), ('start = 2852', 'end = 2920', 'label = Turn'), ('start = 4255', 'end = 4321', 'label = Aileron Roll'), ('start = 4405', 'end = 4548', 'label = Turn'), ('start = 4894', 'end = 5001', 'label = Turn'), ('start = 6936', 'end = 7053', 'label = Turn')]
+
+
+
+[(336, 476)]
+Final Labeled File:
+VAL_L_13001301012.min.tsv
+[('start = 340', 'end = 456', 'label = Turn')]
+
+
+
+[(8, 329), (461, 532), (631, 803), (882, 1058), (1070, 1210)]
+Final Labeled File:
+TESTS_12001057001.min.tsv
+[('start = 8', 'end = 62', 'label = Turn'), ('start = 66', 'end = 158', 'label = Turn'), ('start = 158', 'end = 286', 'label = Immelman'), ('start = 461', 'end = 526', 'label = Turn'), ('start = 639', 'end = 799', 'label = Turn'), ('start = 882', 'end = 1056', 
+'label = Turn'), ('start = 1074', 'end = 1112', 'label = Turn'), ('start = 1145', 'end = 1207', 'label = Turn')]
+
+
+
+[(124, 192), (416, 599), (697, 792), (839, 1162), (1404, 1545), (1572, 1693), (1827, 2161), (2322, 3012), (3024, 3529), (3588, 3742), (3959, 4163), (5094, 5199), (6426, 6539), (7542, 7872), (8043, 8125), (8930, 9099), (9725, 9972), (10312, 10376), (11542, 11629), (11875, 12217), (12375, 12443), (14068, 14136), (14235, 14321), (14474, 14583), (14622, 14770), (14831, 15370), (15562, 15717), (15728, 15782), (15939, 16177), (16437, 16611), (16799, 17086), (17337, 17431), (17515, 17611), (17756, 17904), (17974, 18073), (18160, 18406), (18425, 18694)]
+Final Labeled File:
+TRAIN_13001245001.min.tsv
+[('start = 124', 'end = 188', 'label = Turn'), ('start = 416', 'end = 597', 'label = Turn'), ('start = 697', 'end = 790', 'label = Turn'), ('start = 839', 'end = 1159', 'label = Turn'), ('start = 1404', 'end = 1543', 'label = Turn'), ('start = 1572', 'end = 1691', 'label = Loop'), ('start = 1836', 'end = 1948', 'label = Immelman'), ('start = 1948', 'end = 2043', 'label = Immelman'), ('start = 2055', 'end = 2151', 'label = Immelman'), ('start = 2322', 'end = 3002', 'label = Turn'), ('start = 3033', 'end = 3241', 'label = Turn'), ('start = 3241', 'end = 3514', 'label = Turn'), ('start = 3588', 'end = 3740', 'label = Turn'), ('start = 3963', 'end = 4158', 'label = Turn'), ('start = 5098', 'end = 5172', 'label = Turn'), ('start = 6438', 'end = 6531', 'label = Turn'), ('start = 7542', 'end = 7859', 'label = Turn'), ('start = 8057', 'end = 8119', 'label = Turn'), ('start = 9756', 'end = 9958', 'label = Turn'), ('start = 11551', 'end = 11617', 'label = Turn'), ('start = 11889', 'end = 12197', 'label = Turn'), ('start = 14072', 'end = 14131', 'label = Turn'), ('start = 14244', 'end = 14305', 'label = Turn'), ('start = 14483', 'end = 14558', 'label = Turn'), ('start = 14622', 'end = 14768', 'label = Turn'), ('start = 14840', 'end = 15312', 'label = Turn'), ('start = 15571', 'end = 15713', 'label = Turn'), ('start = 15728', 'end = 15767', 'label = Turn'), ('start = 15951', 'end = 16166', 'label = Turn'), ('start = 16437', 'end = 16599', 'label = Turn'), ('start = 16808', 'end = 17046', 'label = Turn'), ('start = 17346', 'end = 17407', 'label = Turn'), ('start = 17515', 'end = 17609', 'label = Turn'), ('start = 17790', 'end = 17895', 'label = Turn'), ('start = 17974', 'end = 18071', 'label = Turn'), ('start = 18160', 'end = 18399', 'label = Turn'), ('start = 18437', 'end = 18671', 'label = Turn')]
+
+
+
+[(164, 305), (409, 660), (688, 742), (926, 1012), (1083, 1178), (1465, 1533), (1612, 1725), (1874, 2034), (2050, 2332), (2342, 2395), (2539, 2742), (2744, 2835), (3082, 3181), (3212, 3348), (3459, 3581), (3608, 3718), (3794, 3877)]
+Final Labeled File:
+TESTS_13000520002.min.tsv
+[('start = 173', 'end = 302', 'label = Turn'), ('start = 441', 'end = 640', 'label = Turn'), ('start = 926', 'end = 1010', 'label = Turn'), ('start = 1083', 'end = 1176', 'label = Turn'), ('start = 1469', 'end = 1528', 'label = Turn'), ('start = 1620', 'end = 1708', 'label = Turn'), ('start = 1874', 'end = 2012', 'label = Turn'), ('start = 2101', 'end = 2291', 'label = Turn'), ('start = 2548', 'end = 2689', 'label = Turn'), ('start = 2744', 'end = 2833', 'label = Turn'), ('start = 3082', 'end = 3179', 'label = Turn'), ('start = 3236', 'end = 3324', 'label = Turn'), ('start = 3523', 'end = 3570', 'label = Turn'), ('start = 3636', 'end = 3714', 'label = Turn'), ('start = 3803', 'end = 3864', 'label = Turn')]
+
+
+
+
+[(8, 576), (756, 1055), (1060, 1142)]
+Final Labeled File:
+TRAIN_13001213001.min.tsv
+[('start = 8', 'end = 565', 'label = Turn'), ('start = 756', 'end = 1017', 'label = Turn'), ('start = 1068', 'end = 1132', 'label = Turn')]
+
+
+
+[(243, 316), (331, 400), (419, 509), (665, 832), (841, 946), (1170, 1467), (1540, 2034), (2041, 2584), (2679, 2756), (2773, 2845), (2858, 2933), (3038, 3335), (3339, 4002), (4006, 4314)]
+Final Labeled File:
+TRAIN_13000841001.min.tsv
+[('start = 247', 'end = 294', 'label = Turn'), ('start = 335', 'end = 382', 'label = Turn'), ('start = 423', 'end = 470', 'label = Turn'), ('start = 723', 'end = 770', 'label = Turn'), ('start = 845', 'end = 906', 'label = Turn'), ('start = 1174', 'end = 1461', 'label = Turn'), ('start = 1591', 'end = 1984', 'label = Turn'), ('start = 2211', 'end = 2395', 'label = Turn'), ('start = 2679', 'end = 2740', 'label = Turn'), ('start = 2781', 'end = 2828', 'label = Turn'), ('start = 2862', 'end = 2909', 'label = Turn'), ('start = 3047', 'end = 3247', 'label = Turn'), ('start = 3429', 'end = 3775', 'label = Turn'), ('start = 3779', 'end = 3997', 'label = Turn'), ('start = 4015', 'end = 4277', 'label = Turn')]
+
+
+
+[(4222, 4464), (4687, 4945), (5163, 5373)]
+Final Labeled File:
+TRAIN_12001312010.min.tsv
+[('start = 4226', 'end = 4444', 'label = Turn'), ('start = 4691', 'end = 4938', 'label = Turn'), ('start = 5163', 'end = 5357', 'label = Turn')]
+
+
+
+[(1319, 1419), (2001, 2092), (2238, 2290), (3434, 3554), (4511, 4646), (4949, 5055), (5325, 5437), (5655, 5749), (5962, 6133), (6279, 6594), (6637, 6784), (6788, 6956), (6985, 7062), (7069, 7246)]
+Final Labeled File:
+TRAIN_12001995002.min.tsv
+[('start = 1319', 'end = 1417', 'label = Turn'), ('start = 2010', 'end = 2071', 'label = Turn'), ('start = 3434', 'end = 3552', 'label = Turn'), ('start = 4520', 'end = 4610', 'label = Turn'), ('start = 4958', 'end = 5040', 'label = Turn'), ('start = 5334', 'end = 5416', 'label = Turn'), ('start = 5664', 'end = 5746', 'label = Turn'), ('start = 5966', 'end = 6127', 'label = Turn'), ('start = 6279', 'end = 6584', 'label = Turn'), ('start = 6637', 'end = 6780', 'label = Turn'), ('start = 6792', 'end = 6951', 'label = Turn'), ('start = 6994', 'end = 7059', 'label = Turn'), ('start = 7078', 'end = 7241', 'label = Turn')]
+
+
+
+[(8, 290), (292, 455), (457, 551), (652, 1078), (1394, 1555), (1660, 1768), (1803, 1867), (1879, 1957)]
+Final Labeled File:
+TRAIN_12000793006.min.tsv
+[('start = 36', 'end = 231', 'label = Turn'), ('start = 292', 'end = 453', 'label = Turn'), ('start = 469', 'end = 533', 'label = Turn'), ('start = 652', 'end = 685', 'label = Turn'), ('start = 709', 'end = 823', 'label = Turn'), ('start = 827', 'end = 1011', 'label = Turn'), ('start = 1011', 'end = 1050', 'label = Turn'), ('start = 1420', 'end = 1471', 'label = Turn'), ('start = 1682', 'end = 1758', 'label = Split s'), ('start = 1803', 'end = 1865', 'label = Split s'), ('start = 1888', 'end = 1927', 'label = Turn')]
+
+
+[(412, 519), (525, 745), (747, 803), (850, 908), (1414, 1649), (1744, 1803), (1973, 2038)]
+Final Labeled File:
+TRAIN_13001119002.min.tsv
+[]
+
+
+
+[(246, 370), (405, 498), (733, 880), (901, 953)]
+Final Labeled File:
+TESTS_13000621002.min.tsv
+[('start = 263', 'end = 353', 'label = Turn'), ('start = 405', 'end = 485', 'label = Turn'), ('start = 733', 'end = 874', 'label = Turn')]
+
+
+
+[(8, 102), (1357, 1537), (1735, 1884), (4443, 4542), (5145, 5320), (8480, 8622), (9084, 9168), (9193, 9261), (9516, 9593)]
+Final Labeled File:
+TRAIN_13001402009.min.tsv
+[('start = 8', 'end = 70', 'label = Turn'), ('start = 1357', 'end = 1535', 'label = Turn'), ('start = 1753', 'end = 1877', 'label = Turn'), ('start = 4457', 'end = 4528', 'label = Turn'), ('start = 5145', 'end = 5318', 'label = Turn'), ('start = 8494', 'end = 8618', 'label = Turn'), ('start = 9084', 'end = 9162', 'label = Turn'), ('start = 9197', 'end = 9236', 'label = Turn'), ('start = 9520', 'end = 9584', 'label = Turn')]
+
+
+
+[(40, 115), (193, 300), (545, 617), (684, 796), (959, 1125), (1230, 1433), (1754, 1841), (1911, 1975), (2372, 2447), (2479, 2564), (2603, 2660)]
+Final Labeled File:
+TESTS_13000501001.min.tsv
+[('start = 40', 'end = 109', 'label = Turn'), ('start = 201', 'end = 260', 'label = Turn'), ('start = 549', 'end = 608', 'label = Turn'), ('start = 684', 'end = 790', 'label = Turn'), ('start = 959', 'end = 1118', 'label = Turn'), ('start = 1239', 'end = 1418', 'label = Turn'), ('start = 1754', 'end = 1813', 'label = Turn'), ('start = 1911', 'end = 1970', 'label = Turn'), ('start = 2372', 'end = 2445', 'label = Turn'), ('start = 2479', 'end = 2557', 'label = Turn'), ('start = 2603', 'end = 2654', 'label = Turn')]    
+
+
+
+[(132, 228), (1361, 1448)]
+Final Labeled File:
+TRAIN_12000600004.min.tsv
+[('start = 146', 'end = 220', 'label = Turn')]
+
+
+
+[(45, 114), (931, 989), (1258, 1419), (1532, 1658), (1667, 1745), (2003, 2341), (2402, 2521), (2523, 2593)]
+Final Labeled File:
+TRAIN_12002762002.min.tsv
+[('start = 45', 'end = 104', 'label = Turn'), ('start = 1299', 'end = 1386', 'label = Turn'), ('start = 2012', 'end = 2067', 'label = Turn'), ('start = 2098', 'end = 2164', 'label = Turn'), ('start = 2203', 'end = 2289', 'label = Aileron Roll'), ('start = 2446', 'end = 2515', 'label = Aileron Roll'), ('start = 2537', 'end = 2576', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_12001704008.min.tsv
+[]
+
+
+
+[(1081, 1441), (1749, 2083), (2302, 2581), (3242, 3664)]
+Final Labeled File:
+TESTS_12001854004.min.tsv
+[('start = 1104', 'end = 1403', 'label = Turn'), ('start = 1753', 'end = 2073', 'label = Turn'), ('start = 2306', 'end = 2561', 'label = Turn'), ('start = 3246', 'end = 3656', 'label = Turn')]
+
+
+
+[(35, 99), (294, 361), (561, 797), (1086, 1314)]
+Final Labeled File:
+TRAIN_13000903002.min.tsv
+[('start = 43', 'end = 82', 'label = Turn'), ('start = 294', 'end = 356', 'label = Turn'), ('start = 561', 'end = 791', 'label = Turn'), ('start = 1086', 'end = 1307', 'label = Turn')]
+
+
+
+[(682, 743), (765, 866), (1224, 1288), (2098, 2480), (4140, 4228)]
+Final Labeled File:
+TRAIN_13001274033.min.tsv
+[('start = 2118', 'end = 2463', 'label = Turn'), ('start = 4158', 'end = 4220', 'label = Turn')]
+
+
+
+[(130, 3902), (3999, 4078)]
+Final Labeled File:
+TRAIN_12000127005.min.tsv
+[('start = 130', 'end = 3575', 'label = Turn'), ('start = 3575', 'end = 3695', 'label = Split s'), ('start = 3717', 'end = 3887', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_12000219002.min.tsv
+[]
+
+
+
+[(61, 249), (619, 827), (1662, 1736), (2057, 2287), (2441, 2530), (4394, 4446), (5411, 5599), (5844, 5921), (6497, 6665)]
+Final Labeled File:
+TRAIN_13001203023.min.tsv
+[('start = 65', 'end = 244', 'label = Turn'), ('start = 619', 'end = 714', 'label = Turn'), ('start = 714', 'end = 753', 'label = Turn'), ('start = 761', 'end = 823', 'label = Turn'), ('start = 1666', 'end = 1730', 'label = Turn'), ('start = 2066', 'end = 2277', 'label = Turn'), ('start = 2450', 'end = 2514', 'label = Turn'), ('start = 5411', 'end = 5568', 'label = Turn'), ('start = 5852', 'end = 5914', 'label = Turn'), ('start = 6505', 'end = 6660', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+VAL_L_12002735001.min.tsv
+[]
+
+
+
+[]
+Final Labeled File:
+TRAIN_12002025001.min.tsv
+[]
+
+
+
+[(377, 442), (971, 1027), (2026, 2080), (2100, 2179), (2625, 2768)]
+Final Labeled File:
+TESTS_12001350005.min.tsv
+[('start = 381', 'end = 420', 'label = Turn'), ('start = 2038', 'end = 2077', 'label = Turn'), ('start = 2625', 'end = 2766', 'label = Turn')]
+
+
+
+[(244, 337), (533, 631), (756, 975), (1056, 1376), (1416, 1642), (1750, 1992), (1998, 2109), (2111, 2226), (2725, 2786), (2814, 2876), (2880, 2934)]
+Final Labeled File:
+TRAIN_13001081002.min.tsv
+[('start = 550', 'end = 625', 'label = Turn'), ('start = 765', 'end = 959', 'label = Turn'), ('start = 1056', 'end = 1133', 'label = Aileron Roll'), ('start = 1137', 'end = 1261', 'label = Loop'), ('start = 1265', 'end = 1336', 'label = Turn'), ('start = 1425', 'end = 1625', 'label = Turn'), ('start = 1764', 'end = 1903', 'label = Turn'), ('start = 2729', 'end = 2779', 'label = Turn')]
+
+
+
+[(107, 157), (220, 326), (697, 1091), (1104, 1319)]
+Final Labeled File:
+TRAIN_12000135003.min.tsv
+[('start = 238', 'end = 300', 'label = Turn'), ('start = 715', 'end = 839', 'label = Turn'), ('start = 847', 'end = 1089', 'label = Turn'), ('start = 1113', 'end = 1313', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_12001623001.min.tsv
+[]
+
+
+
+[(186, 258)]
+Final Labeled File:
+TRAIN_13001360007.min.tsv
+[]
+
+
+
+[(97, 621), (969, 1307), (1449, 1548), (1550, 1621), (1789, 1908), (2001, 2119), (2160, 2211), (2335, 2492), (3013, 3209), (3215, 3415), (4695, 4775), (7088, 7443), (7485, 7556), (7870, 8135), (8873, 8942), (9093, 9152), (9343, 9482), (9714, 9855), (10790, 10905), (10934, 11113)]
+Final Labeled File:
+TRAIN_13001447003.min.tsv
+[('start = 101', 'end = 289', 'label = Turn'), ('start = 329', 'end = 588', 'label = Turn'), ('start = 978', 'end = 1172', 'label = Turn'), ('start = 1483', 'end = 1545', 'label = Turn'), ('start = 2349', 'end = 2473', 'label = Turn'), ('start = 3017', 'end = 3203', 'label = Turn'), ('start = 7088', 'end = 7424', 'label = Turn'), ('start = 7884', 'end = 8132', 'label = Turn'), ('start = 9373', 'end = 9466', 'label = Turn'), ('start = 9714', 'end = 9838', 'label = Turn'), ('start = 10808', 'end = 10901', 'label = Turn'), ('start = 10948', 'end = 11103', 'label = Turn')]
+
+
+
+
+[(8, 1346), (1403, 1554), (1670, 2030), (2488, 2799), (2996, 3127), (3446, 3877), (3879, 3975), (4014, 4150), (4206, 4330), (4609, 5121), (8389, 8847), (8859, 8956), (9326, 9586), (9869, 10167), (10548, 10831), (11042, 11318), (11327, 11388), (11624, 11884), (12097, 12383), (12542, 12913), (14561, 14615), (17712, 17786), (18893, 18981), (20710, 20944), (21077, 21172), (21550, 21659), (22568, 22788), (23203, 23283), (24138, 24218)]
+Final Labeled File:
+TESTS_13001184003.min.tsv
+[('start = 22', 'end = 146', 'label = Turn'), ('start = 160', 'end = 277', 'label = Turn'), ('start = 277', 'end = 485', 'label = Turn'), ('start = 485', 'end = 650', 'label = Turn'), ('start = 654', 'end = 890', 'label = Turn'), ('start = 890', 'end = 1336', 'label = Turn'), ('start = 1403', 'end = 1543', 'label = Turn'), ('start = 1670', 'end = 2025', 'label = Turn'), ('start = 2492', 'end = 2776', 'label = Turn'), ('start = 3014', 'end = 3107', 'label = Turn'), ('start = 3466', 'end = 3855', 'label = Turn'), ('start = 3896', 'end = 3967', 'label = Turn'), ('start = 4014', 'end = 4148', 'label = Turn'), ('start = 4220', 'end = 4313', 'label = Turn'), ('start = 4613', 'end = 4644', 'label = Turn'), ('start = 4644', 'end = 5089', 'label = Turn'), ('start = 8403', 'end = 8496', 'label = Turn'), ('start = 8500', 'end = 8809', 'label = Turn'), ('start = 8859', 'end = 8952', 'label = Turn'), ('start = 9334', 'end = 9567', 'label = Turn'), ('start = 9887', 'end = 10151', 'label = Turn'), ('start = 10548', 'end = 10812', 'label = Turn'), ('start = 11046', 'end = 11310', 'label = Turn'), ('start = 11628', 'end = 11861', 'label = Turn'), ('start = 12105', 'end = 12369', 'label = Turn'), ('start = 12542', 'end = 12862', 'label = Turn'), ('start = 17738',  'end = 17769', 'label = Turn'), ('start = 18911', 'end = 18973', 'label = Turn'), ('start = 20724', 'end = 20926', 'label = Turn'), ('start = 21550', 'end = 21643', 'label = Turn'), ('start = 22586', 'end = 22772', 'label = Turn'), ('start = 23217', 'end = 23279', 'label = Turn')]
+
+
+
+[(8, 70), (299, 419), (487, 596), (601, 664), (756, 1148), (1418, 1491), (1577, 1691), (2281, 2346), (3992, 4073)]
+Final Labeled File:
+TESTS_13001236001.min.tsv
+[('start = 8', 'end = 50', 'label = Turn'), ('start = 299', 'end = 417', 'label = Turn'), ('start = 487', 'end = 576', 'label = Turn'), ('start = 756', 'end = 1142', 'label = Turn'), ('start = 1422', 'end = 1473', 'label 
+= Turn'), ('start = 1577', 'end = 1689', 'label = Turn'), ('start = 2289', 'end = 2340', 'label = Turn'), ('start = 3992', 'end = 4071', 'label = Turn')]
+
+
+
+[(8, 140), (369, 617), (913, 980), (1035, 1170), (1308, 1495), (1593, 1838), (2117, 2205), (2288, 2399), (2732, 2953), (3102, 3181), (3607, 3802), (3928, 4123), (4165, 4241), (4348, 4522)]
+Final Labeled File:
+TESTS_13001310002.min.tsv
+[('start = 8', 'end = 103', 'label = Turn'), ('start = 369', 'end = 446', 'label = Turn'), ('start = 460', 'end = 491', 'label = Turn'), ('start = 535', 'end = 604', 'label = Turn'), ('start = 921', 'end = 978', 'label = Turn'), ('start = 1035', 'end = 1139', 'label = Turn'), ('start = 1316', 'end = 1491', 'label = Turn'), ('start = 1610', 'end = 1828', 'label = Turn'), ('start = 2117', 'end = 2168', 'label = Turn'), 
+('start = 2288', 'end = 2397', 'label = Turn'), ('start = 2740', 'end = 2941', 'label = Turn'), ('start = 3102', 'end = 3141', 'label = Turn'), ('start = 3607', 'end = 3750', 'label = Turn'), ('start = 3928', 'end = 4111', 'label = Turn'), ('start = 4366', 'end = 4510', 'label = Turn')]
+
+
+
+[(1051, 1128), (1223, 1391), (1420, 1535), (2064, 2126), (4517, 4685), (5080, 5190), (5193, 5427), (5460, 6212), (6489, 6846), (6890, 7512), (7772, 8556), (8564, 9106), (9159, 9630), (9646, 9818), (9842, 9895)]
+Final Labeled File:
+TRAIN_13001139008.min.tsv
+[('start = 1237', 'end = 1389', 'label = Turn'), ('start = 1420', 'end = 1523', 'label = Turn'), ('start = 2078', 'end = 2109', 'label = Turn'), ('start = 4525', 'end = 4679', 'label = Turn'), ('start = 5088', 'end = 5186', 'label = Turn'), ('start = 5207', 'end = 5399', 'label = Turn'), ('start = 5460', 'end = 5841', 'label = Turn'), ('start = 5858', 'end = 6204', 'label = Turn'), ('start = 6493', 'end = 6822', 'label = Turn'), ('start = 6920', 'end = 7507', 'label = Turn'), ('start = 7780', 'end = 7846', 'label = Turn'), ('start = 7860', 'end = 8141', 'label = Lazy8'), ('start = 8161', 'end = 8387', 'label = Lazy8'), ('start = 8387', 'end = 8519', 'label = Quarter cloverleaf'), ('start = 8564', 'end = 9102', 'label = Turn'), ('start = 9167', 'end = 9305', 'label = Turn'), ('start = 9305', 'end = 9586', 'label = Lazy8'), ('start = 9586', 'end = 9617', 'label = Turn'), ('start = 9678', 'end = 9812', 'label = Loop'), ('start = 9856', 'end = 9889', 'label = Turn')]
+
+
+[(131, 187), (310, 378), (473, 542), (659, 721), (804, 857), (946, 1022), (1114, 1173), (1195, 1314), (1529, 1612)]
+Final Labeled File:
+TRAIN_13001121061.min.tsv
+[('start = 131', 'end = 185', 'label = Aileron Roll'), ('start = 314', 'end = 373', 'label = Aileron Roll'), ('start = 477', 'end = 536', 'label = Aileron Roll'), ('start = 659', 'end = 718', 'label = Aileron Roll'), ('start = 804', 'end = 855', 'label = Aileron Roll'), ('start = 958', 'end = 1017', 'label = Aileron Roll'), ('start = 1114', 'end = 1171', 'label = Aileron Roll'), ('start = 1195', 'end = 1312', 'label = Split s'), ('start = 1533', 'end = 1603', 'label = Split s')]
+
+
+
+[(141, 193), (363, 478), (488, 559), (587, 670), (956, 1006), (1059, 1126), (1136, 1198), (1232, 1282), (1361, 1579), (2493, 2573), (2832, 2929), (3031, 3100), (3120, 3208), (3300, 3352), (3479, 3583), (3621, 3732), (3793, 3953), (3962, 4108), (4239, 4369), (4621, 4701), (4709, 4964), (4981, 5054), (5118, 5248), (5251, 5487), (5497, 5599)]
+Final Labeled File:
+TRAIN_12002268013.min.tsv
+[('start = 155', 'end = 186', 'label = Turn'), ('start = 502', 'end = 533', 'label = Turn'), ('start = 628', 'end = 667', 'label = Turn'), ('start = 970', 'end = 1001', 'label = Turn'), ('start = 1089', 'end = 1120', 'label = Turn'), ('start = 1136', 'end = 1195', 'label = Turn'), ('start = 1392', 'end = 1519', 'label = Turn'), ('start = 1519', 'end = 1558', 'label = Turn'), ('start = 2497', 'end = 2556', 'label = Turn'), 
+('start = 2832', 'end = 2927', 'label = Turn'), ('start = 3031', 'end = 3092', 'label = Turn'), ('start = 3120', 'end = 3179', 'label = Turn'), ('start = 3300', 'end = 3331', 'label = Turn'), ('start = 3483', 'end = 3548', 'label = Turn'), ('start = 3635', 'end = 3666', 'label = Turn'), ('start = 3684', 'end = 3723', 'label = Turn'), ('start = 3801', 'end = 3939', 'label = Turn'), ('start = 4029', 'end = 4060', 'label = Turn'), ('start = 4251', 'end = 4284', 'label = Turn'), ('start = 4284', 'end = 4364', 'label = Turn'), ('start = 4629', 'end = 4697', 'label = Turn'), ('start = 4781', 'end = 4903', 'label = Turn'), ('start = 4989', 'end = 5036', 'label = Turn'), ('start = 5122', 'end = 5215', 'label = Split s'), ('start = 5215', 'end = 5246', 'label = Turn'), ('start = 5251', 'end = 5435', 'label = Turn'), ('start = 5550', 'end = 5597', 'label = Turn')]
+
+
+
+[(482, 575), (1495, 1594), (1612, 1678), (2593, 2681), (2803, 3090), (3588, 3640), (3764, 3921), (4299, 4402)]
+Final Labeled File:
+TESTS_13001342006.min.tsv
+[('start = 496', 'end = 558', 'label = Turn'), ('start = 1495', 'end = 1575', 'label = Turn'), ('start = 2593', 'end = 2671', 'label = Turn'), ('start = 2811', 'end = 3030', 'label = Turn'), ('start = 3782', 'end = 3882', 'label = Turn'), ('start = 4313', 'end 
+= 4375', 'label = Turn')]
+
+
+
+[(2029, 2085)]
+Final Labeled File:
+TRAIN_12001583003.min.tsv
+[('start = 2029', 'end = 2080', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TESTS_13001122027.min.tsv
+[]
+
+
+
+[(23, 302), (1777, 1952), (2067, 2155), (2236, 2317), (2476, 2799), (2858, 3094), (3226, 3335), (3500, 3673), (3862, 4016), (6885, 6976)]
+Final Labeled File:
+TESTS_12001742012.min.tsv
+[('start = 23', 'end = 286', 'label = Turn'), ('start = 1818', 'end = 1933', 'label = Turn'), ('start = 2067', 'end = 2153', 'label = Turn'), ('start = 2236', 'end = 2304', 'label = Turn'), ('start = 2484', 'end = 2792', 'label = Turn'), ('start = 2862', 'end = 3085', 'label = Turn'), ('start = 3234', 'end = 3327', 'label = Turn'), ('start = 3508', 'end = 3663', 'label = Turn'), ('start = 3862', 'end = 4014', 'label = Turn')]
+
+
+
+[(2426, 2657), (2828, 2944), (3473, 3570), (3627, 3701), (3756, 3832), (3837, 3897), (3914, 4002), (4156, 4206), (4271, 4340), (4369, 4450), (4546, 4646), (4772, 4870), (4990, 5418)]
+Final Labeled File:
+TRAIN_12001306002.min.tsv
+[('start = 2544', 'end = 2642', 'label = Turn'), ('start = 2832', 'end = 2893', 'label = Turn'), ('start = 3481', 'end = 3548', 'label = Turn'), ('start = 3631', 'end = 3682', 'label = Turn'), ('start = 3756', 'end = 3830', 'label = Turn'), ('start = 3939', 'end = 3986', 'label = Turn'), ('start = 4377', 'end = 4445', 'label = Turn'), ('start = 4780', 'end = 4864', 'label = Turn'), ('start = 5004', 'end = 5094', 'label = Turn'), ('start = 5122', 'end = 5407', 'label = Turn')]
+
+
+
+[(8, 79), (301, 354), (383, 591), (621, 675), (679, 799), (979, 1040)]
+Final Labeled File:
+TESTS_12001595006.min.tsv
+[('start = 8', 'end = 58', 'label = Turn'), ('start = 301', 'end = 340', 'label = Turn'), ('start = 383', 'end = 577', 'label = Turn'), ('start = 621', 'end = 672', 'label = Turn'), ('start = 697', 'end = 775', 'label = Turn')]
+
+
+
+[(687, 768), (870, 991), (1258, 1318), (1369, 1515), (1665, 1830), (1925, 2140), (2162, 2216)]
+Final Labeled File:
+TRAIN_13000063001.min.tsv
+[('start = 687', 'end = 759', 'label = Turn'), ('start = 870', 'end = 989', 'label = Turn'), ('start = 1258', 'end = 1316', 'label = Turn'), ('start = 1369', 'end = 1513', 'label = Turn'), ('start = 1665', 'end = 1824', 'label = Turn'), ('start = 1925', 'end = 
+2091', 'label = Turn')]
+
+
+
+[]
+Final Labeled File:
+TRAIN_12001037001.min.tsv
+[]
+
+
+
+[(808, 1025)]
+Final Labeled File:
+TESTS_12000052005.min.tsv
+[('start = 812', 'end = 998', 'label = Turn')]
+
+
+
+[(390, 620), (779, 989), (1197, 1293), (1296, 1517), (1668, 1877), (1967, 2053)]
+Final Labeled File:
+TRAIN_12002635004.min.tsv
+[('start = 407', 'end = 543', 'label = Turn'), ('start = 787', 'end = 966', 'label = Turn'), ('start = 1201', 'end = 1290', 'label = Turn'), ('start = 1296', 'end = 1445', 'label = Turn'), ('start = 1462', 'end = 1513', 'label = Turn'), ('start = 1672', 'end = 
+1873', 'label = Turn'), ('start = 1967', 'end = 2029', 'label = Turn')]
