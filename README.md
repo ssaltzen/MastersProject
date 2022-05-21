@@ -40,7 +40,7 @@ We have approached a subset of this challenge for our Master's Capstone project.
 #### - DataManagment ~ Contains files used to clean, validate and manage the dataset
 	vistutorial.py ~ Graphs a file of maneuver data in a 3D plot for visualization
 	rename.py ~ Early attempt at consistent file sorting, randomness, and quality control without central hosting
-	getvaluesfrommaneuvers.py ~ Splits the files into singular "maneuvers" based on delineations of "steady flight"
+	getvaluesfrommaneuvers.py ~ Splits the files into sections where the change in rotation is above a pre-determined threshold, removing regions of only steady flight which aren't of interest for classification.
 	
 #### - Clustering ~ Classifiers for unsupervised learning
 	ticc_clustering.py was our attempt at unsupervised learning using Toeplitz Inverse Covariance-Based Clustering.
