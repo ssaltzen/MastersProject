@@ -31,6 +31,12 @@ We have approached a subset of this challenge for our Master's Capstone project.
 	Video examples of each maneuver in our training dataset can be found at https://drive.google.com/drive/folders/1dLIYun9XqU5sNJYZ6UG4pjUI8mgEux6k?usp=sharing
 	The ShortestPathClassification folder also contains the output log with the results of running the classifier on 256 random files. It also contains an
 	Excel file containing the results of validating 50 of the files from the output log.
+	The output for each file follows the format:
+		[(a,m), (b,n),...] - (a,m) and (b,n) are the parts of the file left after pre-processing (i.e. regions with potential maneuvers)
+		Final Labeled File:
+		file_name
+		[(start, end, maneuver label),...] - This is the list of predicted labels for the entire file
+	To validate results with the visualizer, copy file_name and paste it in the Input Field on the bottom left corner of the visualizer and press enter.
 
 #### - DataManagment ~ Contains files used to clean, validate and manage the dataset
 	vistutorial.py ~ Graphs a file of maneuver data in a 3D plot for visualization
