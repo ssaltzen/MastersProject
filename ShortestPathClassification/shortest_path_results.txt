@@ -1,3 +1,4 @@
+[(8, 98), (203, 350), (355, 450), (568, 1324), (1354, 1505), (1516, 1695)]
 Final Labeled File:
 TRAIN_12002320001.min.tsv
 [('start = 8', 'end = 96', 'label = Turn'), ('start = 207', 'end = 279', 'label = Turn'), ('start = 279', 'end = 340', 'label = Turn'), ('start = 355', 'end = 448', 'label = Turn'), ('start = 572', 'end = 614', 'label = Turn'), ('start = 614', 'end = 694', 'label = Turn'), ('start = 731', 'end = 778', 'label = Turn'), ('start = 854', 'end = 911', 'label = Turn'), ('start = 911', 'end = 1137', 'label = Lazy8'), ('start = 1141', 'end = 1180', 'label = Turn'), ('start = 1188', 'end = 1249', 'label = Turn'), ('start = 1354', 'end = 1503', 'label = Turn'), ('start = 1516', 'end = 1691', 'label = Turn')]
