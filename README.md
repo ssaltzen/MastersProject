@@ -21,10 +21,10 @@ We have approached a subset of this challenge for our Master's Capstone project.
     * The dataset has been clean and modified to remove bad files and inaccuracies
     * We have created several visualizations for testing and verification purposes
     * We have developed the Shortest Path Classification algorithm, which has a 91.8% accuracy in predicting maneuver labels from the dataset
-	
+    *Integrated Data collection from the XPLane simulator through the SLPlugin
 
 
-## The Code
+## The 	Classifier
 	Our final solution to the Maneuver Identification Challenge is the Shortest Path Classification algorithm
 	(/ShortestPathClassification/shortest_path_classification.py)
 	Video examples of each type of maneuver in our training dataset can be viewed at https://drive.google.com/drive/folders/1dLIYun9XqU5sNJYZ6UG4pjUI8mgEux6k?usp=sharing
@@ -43,16 +43,22 @@ We have approached a subset of this challenge for our Master's Capstone project.
 	vistutorial.py ~ Graphs a file of maneuver data in a 3D plot for visualization
 	rename.py ~ Early attempt at consistent file sorting, randomness, and quality control without central hosting
 	getvaluesfrommaneuvers.py ~ Splits the files into sections where the change in rotation is above a pre-determined threshold, removing regions of only steady flight which aren't of interest for classification.
+	Cleaning The Data.py ~ Removes Duplicate Files, Missing Data Values, and Files that contain bad data
 	
 #### - Clustering ~ Classifiers for unsupervised learning
 	ticc_clustering.py was our attempt at unsupervised learning using Toeplitz Inverse Covariance-Based Clustering.
+	
+#### - SLPlugin ~ Plugin that allows communciation between the XPlane Simulator and the classifier 
+	SLPlugin.xpl ~ the complied DLL file - Drop into \X-Plane 11\Resources\plugins to run plugins 
+	Additonal Files - Parts of the plugin project
 	
 #### - ManeuverVis ~ Unity Project that allows 3D manipulation and visualization of flight paths in files
 	The full Unity project was too large to add to github, however the Unity Assets folder contains the scripts and scenes that were used for the visualizer.
 	An executable version of the visualizer will be made available through google drive.
 
 #### - Documentation ~ Collection of code documentation, project reports, and reported results
-
-#### -  HMM ~ Hidden Markov Model ~ Still in progress
+	MS_Proj_Report___AIr_Force_Flight_Maneuvers.pdf - Main Description of Full Project
+	Project proposal Siena and Lucas.pdf - First Half of project, presented for ECS 271
+	https://drive.google.com/file/d/1RprGphWdz4XWJOyqc4H0eQpzxaRHvl36/view?usp=sharing - Final Presentation 
 
 
