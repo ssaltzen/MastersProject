@@ -43,7 +43,7 @@ We have approached a subset of this challenge for our Master's Capstone project.
 	getvaluesfrommaneuvers.py ~ Splits the files into singular "maneuvers" based on delineations of "steady flight"
 	
 #### - Clustering ~ Classifiers for unsupervised learning
-	ticc_clustering.py was our attempt at clustering maneuvers.
+	ticc_clustering.py was our attempt at unsupervised learning using Toeplitz Inverse Covariance-Based Clustering.
 	
 #### - ManeuverVis ~ Unity Project that allows 3D manipulation and visualization of flight paths in files
 	The full Unity project was too large to add to github, however the Unity Assets folder contains the scripts and scenes that were used for the visualizer.
