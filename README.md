@@ -57,7 +57,7 @@ We have approached a subset of this challenge for our Master's Capstone project.
 	An executable version of the visualizer will be made available through google drive.
 
 #### - Documentation ~ Collection of code documentation, project reports, and reported results
-	MS_Proj_Report___AIr_Force_Flight_Maneuvers.pdf - Main Description of Full Project
+	ManeuverIdentification_FinalReport.pdf - Main Description of Full Project
 	Project proposal Siena and Lucas.pdf - First Half of project, presented for ECS 271
 	https://drive.google.com/file/d/1RprGphWdz4XWJOyqc4H0eQpzxaRHvl36/view?usp=sharing - Final Presentation 
 
