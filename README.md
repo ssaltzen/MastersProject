@@ -1,5 +1,4 @@
 # AI-r Force Maneuvers 
-[linktest](https://google.com)
 This repository contains the work for the Master's Capstone Project of Siena Saltzen and Lucas Moehlebrock. 
 The project is based on the AIA Maneuver Identification Challenge where in an effort to enable AI coaching and automatic maneuver grading in pilot training, the Air Force seeks to automatically identify and label each maneuver flown in this dataset from a catalog of around 30 maneuvers. 
 We have approached a subset of this challenge for our Master's Capstone project. More Details about our work and methods are available in the documentation section in the provided reports.
@@ -28,7 +27,7 @@ We have approached a subset of this challenge for our Master's Capstone project.
 ## The Code
 	Our final solution to the Maneuver Identification Challenge is the Shortest Path Classification algorithm
 	(/ShortestPathClassification/shortest_path_classification.py)
-	Video examples of each type of maneuver in our training dataset can be found on [Google Drive](https://drive.google.com/drive/folders/1dLIYun9XqU5sNJYZ6UG4pjUI8mgEux6k?usp=sharing)
+	Video examples of each type of maneuver in our training dataset can be found on https://drive.google.com/drive/folders/1dLIYun9XqU5sNJYZ6UG4pjUI8mgEux6k?usp=sharing
 	The ShortestPathClassification folder also contains the output log with the results of running the classifier on 256 random files. It also contains an
 	Excel file containing the results of validating 50 of the files from the output log.
 	The output for each file follows the format:
